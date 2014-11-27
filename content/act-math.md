@@ -1,0 +1,27 @@
+Title: ACT, advanced math style
+Date: 2014-09-11 12:00
+Categories: [ math, education ]
+Tags: tutoring, ACT, group theory, connections
+Slug: ACT-advanced-math
+Authors: Christina Koch
+
+I'm doing a lot of ACT prep tutoring right now, getting students ready for Saturday's test date.  While I can't say I endorse the idea of standardized testing, it's been interesting to re-visit the process almost 10 years after I did it myself.  In particular, it's interesting to read through the questions on the math section through the lens of a math degree.  The ACT math questions are all answerable with a high school understanding of mathematics, but their mathematical foundations are far deeper, and I find myself appreciating the ideas on which the question is founded, even as my students can only skim the surface of what they mean.  The following question is a good example: 
+
+> The 12 numbers on a circular clock are equally spaced around the edges of the clock.  Belinda chooses an integer, *n*, that is greater than 1.  Beginning at a randomly chosen number, Belinda goes around the circle counter clockwise and paints in every *n*th number.  She continues going around and around the clock, painting in every *n*th number until all twelve numbers on the clock are painted.  Which of the following could have been Belinda's integer *n*?
+
+> A 2
+
+> B 3
+
+> C 6
+
+> D 7
+
+> E 9
+
+You don't need an advanced math degree to answer this question.  A few circle diagrams and trial and error should produce the right answer; a quicker thinker might notice the pattern that numbers like 2 or 3 won't work because they divide into 12 and so the answer is likely **D** or **E**.  
+
+Meanwhile, as the all-knowing tutor with a master's degree in math, I see this question for what it really is: **group theory**.  This is a question about generators of the cyclic group *Z_12*.  Generators of *Z_n* must be coprime with *n*, so that answer has to be 7.  
+
+This is, however, not the sort of thing that you can explain to your tutee, especially when they get the question right without the benefit of a course in Abstract Algebra.  It gives me pause however: If students can puzzle their way through a problem like this, do they also have the capacity to handle group theory?  If not, where does the bridge break between the problem and the theory...and why?  
+
