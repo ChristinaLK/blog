@@ -49,15 +49,27 @@ The pelican command runs through the `content` directory, rendering the markdown
 [bash]: publish.sh
 [tips]: http://docs.getpelican.com/en/3.4.0/tips.html
 
-####Themes
+####Themes [8][theme-docs]
 
-`pelican-themes` allows you to manage themes.  To add a theme, simply add `THEME = "theme name"` to the 
+Pelican has many community-made, ready-to-run themes. [here][themes]  Download the repository of available themes with a recursive git clone.  
+~~~
+git clone --recursive https://github.com/getpelican/pelican-themes
+~~~
 
-`pelicanconf.py` file.  
+There are two ways to iinstall and use themes.  
+1. Simply add the path to the theme directory to the `pelicanconf.py` file.  
+~~~
+THEME = "path/to/theme_name"
+~~~
+2. Use the `pelican-themes` tool.  See [Docs][pelican-themes] or run `pelican-themes --help`.  Install a theme from a location (will save it in your themes-path) using the `-i` option, then simply put the name of the theme in the `pelicanconf.py` file.  
+~~~
+THEME = "theme_name"
+~~~
 
-See: http://docs.getpelican.com/en/3.4.0/settings.html#themes,  http://docs.getpelican.com/en/3.4.0/pelican-themes.html, and https://github.com/getpelican/pelican-themes
+[theme-docs]: http://docs.getpelican.com/en/3.4.0/settings.html#themes
+[themes]: https://github.com/getpelican/pelican-themes
+[pelican-themes]: http://docs.getpelican.com/en/3.4.0/pelican-themes.html
 
 ####Other miscellaney
 
-The `ghp-import` command only commits to your `gh-pages` branch.  
-I commit all my original markdown source files to `master`, but have a `.gitignore` in the `master` branch that excludes the automatically generated `output` and `cache` folder, since those are being committed on `gh-pages`.  
+The `ghp-import` command only commits to your `gh-pages` branch.  I commit all my original markdown source files to `master`, but have a `.gitignore` in the `master` branch that excludes the automatically generated `output` and `cache` folder, since those are being committed on `gh-pages`.  
