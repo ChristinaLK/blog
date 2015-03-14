@@ -12,16 +12,22 @@ Powered by [pelican][pelican], currently using the [pelipress][pelipress] theme.
 
 #### Install tools
 
-	pip install pelican markdown [1][pelican]
+Install pip (python package installer) if it isn't already.  Then run: 
 
-	pip install ghp-import [2][ghp-import]
-
+~~~
+pip install pelican markdown 
+pip install ghp-import
+~~~
+	
+[[pelican markdown]][pelican]
+[ghp-import][ghp-import]
+	
 [pelican]: https://github.com/getpelican/pelican
 [ghp-import]: https://github.com/davisp/ghp-import
 
 ####Create site
 
-Make directory on local computer, link to corresponding github repo.  From that directory run `pelican-quickstart`.  [3][quickstart]  
+Make directory on local computer, link to corresponding github repo.  From that directory run `pelican-quickstart`.  [(Docs)][quickstart]  
 
 [quickstart]: http://docs.getpelican.com/en/3.4.0/quickstart.html
 
