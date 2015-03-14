@@ -20,29 +20,29 @@ pip install ghp-import
 ~~~
 	
 [[pelican markdown]][pelican]
-[ghp-import][ghp-import]
+[[ghp-import]][ghp-import]
 	
 [pelican]: https://github.com/getpelican/pelican
 [ghp-import]: https://github.com/davisp/ghp-import
 
 ####Create site
 
-Make directory on local computer, link to corresponding github repo.  From that directory run `pelican-quickstart`.  [(Docs)][quickstart]  
+Make directory on local computer, link to corresponding github repo.  From that directory run `pelican-quickstart`.  [[Documenation]][quickstart]  
 
 [quickstart]: http://docs.getpelican.com/en/3.4.0/quickstart.html
 
 #### Create content
 
-Write posts in markdown in the `content` folder. [4][content]  Use 
-yaml-like headers. [5][yaml]
+Write posts in markdown in the `content` folder. [[Documentation]][content]  Use 
+yaml-like headers. [[yaml list]][yaml]
 
 [content]: http://docs.getpelican.com/en/3.4.0/content.html
 [yaml]: http://assemble.io/docs/YAML-front-matter.html
 
 ####Publish content
 
-Run the following sequence to publish [6][tips] (I turned this into a 
-bash script [7][bash]).  This assumes your github repo is `origin`:
+Run the following sequence to publish [[Documentation]][tips] (I turned this into a 
+bash script [[here]][bash]).  This assumes your github repo is `origin`:
 
 ~~~
 	pelican -o output -s pelicanconf.py
@@ -55,9 +55,11 @@ The pelican command runs through the `content` directory, rendering the markdown
 [bash]: publish.sh
 [tips]: http://docs.getpelican.com/en/3.4.0/tips.html
 
-####Themes [8][theme-docs]
+####Themes 
 
-Pelican has many community-made, ready-to-run themes. [here][themes]  Download the repository of available themes with a recursive git clone.  
+Pelican's theme documentation is [[here]][theme-docs]
+
+Pelican has many community-made, ready-to-run themes [[here]][themes]  Download the repository of available themes with a recursive git clone.  
 ~~~
 git clone --recursive https://github.com/getpelican/pelican-themes
 ~~~
@@ -67,7 +69,7 @@ There are two ways to iinstall and use themes.
 ~~~
 THEME = "path/to/theme_name"
 ~~~
-2. Use the `pelican-themes` tool.  See [Docs][pelican-themes] or run `pelican-themes --help`.  Install a theme from a location (will save it in your themes-path) using the `-i` option, then simply put the name of the theme in the `pelicanconf.py` file.  
+2. Use the `pelican-themes` tool.  See [[documentation]][pelican-themes] or run `pelican-themes --help`.  Install a theme from a location (will save it in your themes-path) using the `-i` option, then simply put the name of the theme in the `pelicanconf.py` file.  
 ~~~
 THEME = "theme_name"
 ~~~
