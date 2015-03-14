@@ -1,0 +1,19 @@
+Title: Best practice ~*feelings*~
+Date: 2015-02-01 18:00
+Category: teaching
+Tags: programming, computing, feelings, motivation, swc
+Slug: best-practices
+Authors: Christina Koch
+
+When I taught a Software Carpentry workshop at UC-Boulder in early January, I ended the two days by giving a little bit of a motivational summary.  I opened with [this tweet](https://twitter.com/sarahmhird/status/552534138906234882) from the previous day's Software Carpentry instructor training, and I finished with  [Starlogs](http://starlogs.net/), to laughter and applause.  
+
+But in the middle, I showed this: 
+
+![successful debugging](
+http://gifrific.com/wp-content/uploads/2012/10/Billy-Madison-I-am-the-smartest-man-alive.gif)
+
+[from a tumblr post](http://whatshouldwecallgradschool.tumblr.com/post/98911397272/when-i-successfully-debug-my-sas-code) with the caption "when I successfully debug my sas code."  
+
+I put it up because I think that feeling^ is important.  That feeling when your code finally works, when all the dots appear from `nosetests`, when you're actually able to reuse a script because you wrote notes, when you restore an accidentally deleted directory, [when it only takes a few minutes to execute a task because you now have options besides excel](http://christinalk.github.io/blog/practice-what-you-preach.html).  One of the reasons I like knowing how to use a command line (besides its practicality) is the symbolic empowerment against my own insecurities about my identity as a computer user.  I started writing nicer code and version controlling and writing shell scripts not just because it was "right" or "practical" but because it made me feel good about myself.  
+
+I feel smart and competent and badass when I know that I am using tools well to maximize my productivity, and that motivates me to continue using them.  It's not my only motivation, and it may not motivate everyone, but I think it's valid and should be something that we can talk about.  

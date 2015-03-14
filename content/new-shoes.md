@@ -1,0 +1,29 @@
+Title: New shoes, or, redundancy in lesson planning
+Date: 2014-12-4 22:00
+Category: teaching
+Tags: education, lesson plans
+Slug: new-shoes
+Authors: Christina Koch
+
+This post comes to you via [a twitter conversation](https://twitter.com/_christinaLK/status/539560108502835201) 
+that occurred on Tuesday.  To summarize: it takes a lot of prep to teach well.  In the case of Software Carpentry 
+where instructors are teaching lessons from a sort of base template, the extent of that prep (re-writing, etc.) 
+can seem inefficient.  The question I want to ask is: is it?  Should a SWC instructor be able to pick up a lesson 
+plan and just execute it?  
+
+I tried to answer that question using a metaphor: thinking of lesson plans like new shoes, or perhaps more 
+aptly, something like ski boots + skis, with adjustable bindings.  Someone may hand the basically complete object 
+to you, but before you can use it, you've got to break them in (in the case of the shoes) or fit it to your feet 
+(in the case of the skis/ski boots).  Similarly, you may get a fully formed lesson plan with objectives and 
+examples and still feel the need to re-work sections, tweak the order, and concoct one extra example to make 
+it work for you.  We may have to at least repaint the wheel, even though we definitely want to avoid reinventing it!  
+
+The better question is then: what kind of base will allow people to "fit" lesson plans to themselves 
+without too much extra effort?  I don't have any answers for that one.  My strongest instinct is that 
+customizable lesson plans should be a little bit like Mad Libs - a story where you get to fill in the 
+verbs.  That would look like a basic outline of learning objectives, and then a "bank" of learning and evaluation 
+activities to fill out the blanks in between.  If an instructor wanted to do minimal prep, the best 
+"default" activities in the bank could be indicated and slotted in.  
+
+On the other hand, maybe it is most desirable to have a one-size-fits-all kind of lesson plan, and 
+continue to refine it as a community.  I'd be interested in more discussion around this...

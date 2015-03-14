@@ -1,0 +1,14 @@
+Title: language learning
+Date: 2014-09-25 16:00
+Category: teaching
+Tags: language, learning
+Slug: language-learning
+Authors: Christina Koch
+
+One of the first apps I installed on my new iPad back in June was Duolingo.  I had seen a Ted Talk by the founder and wanted to see what the app was like for myself.  I started reviewing French and learning German.  
+
+Learning German has been a fascinating experience, both for the language itself (compound words? genius!) and for my own meta-learning.  There is very little hand-holding.  The first time you see a word, it is defined, but after that, you're generally on your own.  My meta-mind has been in overdrive, noticing the patterns of pluralizing (accents, "-en", and "-e"), trying to deduce verb conjugation rules from individual examples, and lately, trying to figure out the difference between nominative and accusative pronouns.  
+
+It makes me wonder if this method would work for those who don't have a meta structure like grammar (from their native or a learned language) in which to place the pieces of the new language.  Or maybe a lack of meta structure would be a positive thing, as it prods the learner to develop an ear for what "sounds right", mimicking the way that children learn language.  
+
+I'm curious!  

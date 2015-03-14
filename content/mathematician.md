@@ -1,7 +1,7 @@
 Title: Are you a mathematician?
 Date: 2014-10-30 12:00
 Category: math
-Tags: math, careers, mathematician, 
+Tags: math, careers, mathematician
 Slug: mathematicians
 Authors: Christina Koch
 

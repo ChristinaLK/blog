@@ -1,7 +1,7 @@
 Title: ACT, advanced math style
 Date: 2014-09-11 12:00
-Categories: [ math, education ]
-Tags: tutoring, ACT, group theory, connections
+Category: math
+Tags: tutoring, ACT, group theory, connections, math
 Slug: ACT-advanced-math
 Authors: Christina Koch
 

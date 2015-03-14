@@ -1,6 +1,6 @@
 Title: Is this math?  
 Date: 2014-09-18 15:00
-Categories: [ math, education ]
+Category: math
 Tags: ACT, language, math, tutoring, logic
 Slug: is-this-math
 Authors: Christina Koch

@@ -1,0 +1,24 @@
+Title: Busy coping
+Date: 2014-09-18 15:00
+Category: personal
+Tags: productivity, relaxation, busyness, 
+Slug: busy-coping
+Authors: Christina Koch
+
+A few weeks ago, I had the bright notion of writing down all my current projects, commitments and goals.  It covered a full page in a regular spiral notebook.  
+
+"Aha," says I.  "No wonder I feel so busy."  
+
+I really felt the power of the list this Monday morning.  I had already gone to my [stats class](http://stat545-ubc.github.io/) (which I'm auditing), and I didn't have "work"-work until 5:30, but the list of things I **could** be doing in that intervening 6 hours was overwhelming, not to mention a newly exploding tutoring calendar thanks to midterms and October standardized test dates.  I was already tired, feeling sick, and not able to cope with all of these demands.  
+
+So as a reference to myself, here are ways to cope when it's crunch time: 
+
+* Stay off social media (and email, sort of).  This is huge for me.  Nothing make me **feel** more overwhelmed than falling behind on my twitter feed, or the emails I get re: projects of which I am a member, but not the lead.  In the grand scheme of things, they should be a secondary consideration.  So I do check my twitter (and email, obviously), but I try not to do it continuously throughout the day.  Instead I'll do a quick scan/triage at two points during the day (usually lunch time and late evening for me) and then concentrate on other things.  
+
+* Do one thing at a time.  
+
+* Make (short) (detailed) lists.  If I write out everything I have to do, even if it's as mundane as "put away the dishes when I get home", I get the satisfaction of crossing at least some things off at the end of the day.  
+
+* Take (intentional) breaks.  Most of us take breaks while we're working, whether we realize it or not, because there's only so long you can focus in one shot.  But there's a difference between a I'm-descending-into-a-youtube-vortex break and a I'll-go-outside-and-people-watch-for-fifteen-minutes break.  
+
+* Say no.  I'm terrible at this.  

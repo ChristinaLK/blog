@@ -1,6 +1,6 @@
-Title: Big Numbers
+Title: Big numbers
 Date: 2014-11-20 21:00
-Categories: 
+Category: math
 Tags: math, science, computing, numbers
 Slug: big-numbers
 Authors: Christina Koch

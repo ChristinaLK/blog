@@ -1,7 +1,7 @@
 Title: Is this programming?  
 Date: 2014-10-09 13:00
-Category: computers
-Tags: programming, math, language
+Category: computing
+Tags: programming, math, language, empowerment
 Slug: is-this-programming
 Authors: Christina Koch
 

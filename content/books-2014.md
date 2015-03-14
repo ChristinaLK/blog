@@ -1,0 +1,26 @@
+Title: Books, looking backward and forward
+Date: 2015-01-01 12:00
+Category: media
+Tags: books, reviews, words, storytelling
+Slug: books-2014
+Authors: Christina Koch
+
+A friend on facebook asked for book recommendations for the new year.  These were my three suggestions, based on books I read in 2014:  
+
+*Bitterblue*, by Kristin Cashore
+
+This is the third in a trilogy, and I'd cautiously say the best, based on my memory of the other two books.  Bitterblue is the story of a nation coming to grips with a brutal past, especially the personal and national cost of supressing the truth.  I think it had some beautiful (and, to be honest, quite realistic) things to say about the power of story-telling to bring healing and the ability of art to expose truth in general.  I like when "heavy" issues are treated in a young adult novel like this, because instead of feeling preached at, I can fumble with the themes and ideas alongside the teenage protaganist.  
+
+*One Hundred Demons*, by Lynda Barry
+
+I was thrilled to discover - by pure coincidence! - that Lynda Barry is currently a professor at UW Madison where I'm now working.  One Hundred Demons is a semi-autobiographical graphic novel and deals with some dark themes like rape and drug abuse, as well as bittersweet themes like the fractured relationship between mothers and daughters, or between childhood friends that have grown apart.  What's great is that all of these ideas are treated fully, thoughtfully, respectfully, and yet somehow subversively because "comics" are stereotypically used for humor, or super-heroes, not mature memoirs.  I wouldn't expect a book that looks like One Hundred Demons to be chock-full of wisdom and insight, but it is, and I think that flipping of expectations is the cherry on top of a dense thematic cake frosted with comic-book icing. 
+
+*The Brothers K*, by David James Duncan
+
+I loved the "original" Brothers Karamozov, and found this thematic riff by David James Duncan equally, if not more, satisfying.  The Brothers K joins my list of favorite books that contain a real world within their pages, with characters who are authentically human in all their flaws and heroism, and whose authors tell a story that doesn't overtly preach or judge, but presents every character on the page with sympathy.  The Brothers K takes an unflinching look at the worst of life, but also digs deeply into the soil of forgiveness, redemption, and hope.  
+
+(I also re-read *Peace Like a River* by Leif Enger this year, and it is a similarly beautiful novel about faith, fathers and sons.) 
+
+-------------------------------
+
+I have a lot of current reading projects, but the two "series" I'm enjoying right now are Ursula LeGuin's *Wizard of Earthsea* trilogy-sort-of-quartet and Georgette Heyer's Regency novels.  Wizard of Earthsea is excellent - the "young-adult" label has been stuck to some very thoughtful, mature books - and Georgette Heyer's *The Grand Sophy* was a riot of a romance where a dynamic Regency-era heroine takes on the "ton" and has a great bickering-to-love relationship a la *Pride and Prejudice*.  

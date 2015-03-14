@@ -1,7 +1,7 @@
-Title: A New Set of Tools
+Title: A new set of tools
 Date: 2014-11-26 22:00
-Categories: computing
-Tags: science, computing, 
+Category: computing
+Tags: science, computing, research
 Slug: new-tools
 Authors: Christina Koch
 
@@ -13,10 +13,10 @@ of memory/processor speed, or, as I'm seeing at UW-Madison, the ability
 to parallelize problems and use high-throughput methods to achieve results.  
 
 My question then: is this kind of advanced computing *necessary* for 
-doing science.  I think it's safe to assume that the answer is yes.  
-To do science is, at least in part, to do computing.  It makes me think (again) 
+doing science.  I think it's safe to assume that the answer is yes.  To 
+do science is, at least in part, to do computing.  It makes me think (again) 
 about the difference between the content of a subject and its rules (or tools), 
-like [this example of math and logic](is-this-math.md).  Computing is not 
+like [this example of math and logic](is-this-math.html).  Computing is not 
 the content of science, but it is one of the tools, a "grammar" for talking 
 about science.  You can continue doing science research without it, but your 
 "sentences" will be clumsy and less expressive than people who are 
