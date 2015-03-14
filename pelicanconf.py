@@ -29,7 +29,7 @@ SOCIAL = (('My Website', 'http://christinalk.github.io'),
 
 DEFAULT_PAGINATION = 10
 
-THEME = "gum"
+THEME = "pelipress"
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

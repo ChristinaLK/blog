@@ -1,10 +1,16 @@
-# About this site
+## About this site
 
-Christina Koch's blog, a subpage of http://christinalk.github.io.
+Christina Koch's [blog][blog-link], a subpage of http://christinalk.github.io.
 
-# About publishing with pelican (notes for self)
+Powered by [pelican][pelican], currently using the [pelipress][pelipress] theme.  
 
-* Install tools:
+[blog-link]: http://christinalk.github.io/blog
+[pelican]: https://github.com/getpelican/
+[pelipress]: https://github.com/jjimenezlopez/pelipress
+
+## About publishing with pelican
+
+#### Install tools
 
 	pip install pelican markdown [1][pelican]
 
@@ -13,17 +19,23 @@ Christina Koch's blog, a subpage of http://christinalk.github.io.
 [pelican]: https://github.com/getpelican/pelican
 [ghp-import]: https://github.com/davisp/ghp-import
 
-* Create site: Make directory on local computer, link to corresponding github repo.  From that directory run `pelican-quickstart`.  [3][quickstart]  
+####Create site
+
+Make directory on local computer, link to corresponding github repo.  From that directory run `pelican-quickstart`.  [3][quickstart]  
 
 [quickstart]: http://docs.getpelican.com/en/3.4.0/quickstart.html
 
-* Create content: Write posts in markdown in the `content` folder. [4][content]  Use 
+#### Create content
+
+Write posts in markdown in the `content` folder. [4][content]  Use 
 yaml-like headers. [5][yaml]
 
 [content]: http://docs.getpelican.com/en/3.4.0/content.html
 [yaml]: http://assemble.io/docs/YAML-front-matter.html
 
-* Publish content: Run the following sequence to publish [6][tips] (I turned this into a 
+####Publish content
+
+Run the following sequence to publish [6][tips] (I turned this into a 
 bash script [7][bash]).  This assumes your github repo is `origin`:
 
 ~~~
@@ -37,11 +49,15 @@ The pelican command runs through the `content` directory, rendering the markdown
 [bash]: publish.sh
 [tips]: http://docs.getpelican.com/en/3.4.0/tips.html
 
-* Themes: `pelican-themes` allows you to manage themes.  To add a theme, simply add `THEME = "theme name"` to the 
+####Themes
+
+`pelican-themes` allows you to manage themes.  To add a theme, simply add `THEME = "theme name"` to the 
 
 `pelicanconf.py` file.  
 
 See: http://docs.getpelican.com/en/3.4.0/settings.html#themes,  http://docs.getpelican.com/en/3.4.0/pelican-themes.html, and https://github.com/getpelican/pelican-themes
 
-* Other miscellaney: The `ghp-import` command only commits to your `gh-pages` branch.  
+####Other miscellaney
+
+The `ghp-import` command only commits to your `gh-pages` branch.  
 I commit all my original markdown source files to `master`, but have a `.gitignore` in the `master` branch that excludes the automatically generated `output` and `cache` folder, since those are being committed on `gh-pages`.  
