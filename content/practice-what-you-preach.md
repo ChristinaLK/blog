@@ -1,7 +1,7 @@
 Title: Practice what you preach
 Date: 2015-01-29 7:00
 Category: computing
-Tags: r, programming, data, motivation, swc
+Tags: r, programming, data, motivation, swc, true story
 Slug: practice-what-you-preach
 Authors: Christina Koch
 
