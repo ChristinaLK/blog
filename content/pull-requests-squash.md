@@ -1,8 +1,8 @@
 Status: draft
 Title: Care and keeping of pull requests, part v
-Date: 2015-02-29 7:00
+Date: 2015-07-03 7:00
 Category: computing
-Tags: git, github, collaboration, version control, pull requests
+Tags: git, github, collaboration, version control, pull requests, care and keeping of prs
 Slug: pull-requests-squash
 Authors: Christina Koch
 

@@ -1,8 +1,7 @@
-Status: draft
-Title: Care and keeping of pull requests, part iii
-Date: 2015-02-29 7:00
+Title: Care and keeping of pull requests, part ii
+Date: 2015-06-30 12:00
 Category: computing
-Tags: git, github, collaboration, version control, pull requests
+Tags: git, github, collaboration, version control, pull requests, care and keeping of prs
 Slug: pull-requests-fetch
 Authors: Christina Koch
 
@@ -14,6 +13,9 @@ changes, that they have made in *their* local copy and pushed to *their* remote
 repository?  You could just clone their remote repository, but 
 it's nice to be able to have your work and their work within the same local 
 repository.  Is it possible?  Yes it is!  
+
+(This is also just a handy technique to know about if you're going to be 
+mucking around with multiple remote repositories.)  
 
 > In what follows, our collaborator's username is `mario`, and he has added changes to 
 > the `mario-kart` repository under the `mushroom` branch.  

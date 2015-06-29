@@ -1,50 +1,49 @@
-Status: draft
-Title: Care and keeping of pull requests, part ii
-Date: 2015-02-29 7:00
+Title: Care and keeping of pull requests, part i
+Date: 2015-06-29 12:00
 Category: computing
-Tags: git, github, collaboration, version control, pull requests
+Tags: git, github, collaboration, version control, pull requests, care and keeping of prs
 Slug: pull-requests-push
 Authors: Christina Koch
 
 See [first post disclaimer](http://christinalk.github.io/blog/pull-requests.html)
 
-Scenario: I want to submit some changes to the master repository, 
-owned by someone else.  I can't submit them directly, so I'm going to create a pull 
-request.  
+Scenario: You want to submit some changes to the master repository, 
+owned by someone else.  You can't submit them directly, so you have to 
+create a pull request.  
 
 > In what follows, `master` is the main branch of 
 > development.  In our local repository, we have used `origin` 
-> to refer to the central repository,  and `my-fork` refers to my fork of the central 
+> to refer to the central repository,  and `peach` refers to your fork of the central 
 > repository.  
 
 ## Submitting a pull request
 
-First I'll create a new branch for my changes and check it out.  This can be done 
+First, create a new branch for the changes and check it out.  This can be done 
 with two commands: 
 
 ~~~
-$ git branch my-patch
-$ git checkout my-patch
+$ git branch power-up-additions
+$ git checkout power-up-additions
 ~~~
 
 or with one: 
 
 ~~~
-$ git checkout -b my-patch
+$ git checkout -b power-up-additions
 ~~~
 
-After I make the changes  and commit them with the usual `git add` + `git commit` combination, I'll push the branch with my changes to *my* remote (`my-fork`):
+After changes are made and committed (with the usual `git add` + `git commit` combination), you can push the branch with your changes to *your* remote (`peach`):
 
 ~~~
-$ git push my-fork my-patch
+$ git push peach power-up-additions
 ~~~
 
-This puts my changes online in *my* copy of the repository.  Now I just need 
+This puts changes online in *your* (`peach`'s) copy of the repository.  Now you just need 
 to notify the central repository (`origin`) by actually submitting the pull request
 (literally - "I'm requesting that you pull the changes from my copy").  [[1](#changes)]
 
 You can always submit a pull request by 
-1) going to your online remote (so `github.com/my-fork/our-repository`) 
+1) going to your online remote (so `github.com/peach/our-repository`) 
 2) clicking on "pull requests" in the right hand menu
 3) clicking on the "New Pull Request" button
 4) This should land you on a screen that says "Comparing Changes" at the top.  
@@ -58,32 +57,31 @@ and see "Comparing Changes", make sure you have the following:
 * "base" branch: main development branch (`master`)
 * "head-fork": your repository 
 * branch to "compare": whatever you just pushed to your own repository 
-(`my-patch`)
+(`power-up-additions`)
 
 Click on the big green button (two times) to finally 
 submit the pull request.  [[3](#all-the-buttons)]
 
-##Updating a pull request with more changes
+## Updating a pull request with more changes
 
-This is super easy. I'll go back to the local repository I have on my 
+This is super easy. Go back to the local repository you have on my 
 computer.  Make sure you're in the correct branch (the one we
 were making changes in before)...
 
 ~~~
-$ git checkout my-patch
+$ git checkout power-up-additions
 ~~~
 
-...and make edits/commit changes as before.  I push the branch to my fork.  
+...and make edits/commit changes as before.  Push your branch to your fork...
 
 ~~~
-$ git commit -m "making changes based on suggestions"
-$ git push my-fork my-patch
+$ git push peach power-up-additions
 ~~~
 
-Ta-da!  That's it.  I
+Ta-da!  That's it.  You
 don't need to "resubmit" the pull request, as the pull request on the main 
 repository will automatically update (Github magic!) based on the changes 
-that I've pushed to your copy of the repository.  
+that you've pushed to your copy of the repository.  
 
 <a name="changes">[1]</a> One thing I found confusing when I started making pull requests was that 
 the changes were in *my* remote repository, but the pull request appeared on 

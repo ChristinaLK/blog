@@ -1,23 +1,23 @@
-Status: draft
 Title: Care and keeping of pull requests, part iv
-Date: 2015-02-29 7:00
+Date: 2015-07-02 12:00
 Category: computing
-Tags: git, github, collaboration, version control, pull requests
+Tags: git, github, collaboration, version control, pull requests, care and keeping of prs
 Slug: pull-requests-magic
 Authors: Christina Koch
 
 See [first post disclaimer](http://christinalk.github.io/blog/pull-requests.html)
 
 Scenario: You've submitted your pull requests, but due to various circumstances, 
-your pull request can't be automatically merged and you need to make 
-some changes.  There are lots of ways to do this.  
+your pull request can't be automatically merged and you need to update 
+it.  (Alternatively: you are the owner of the central repository 
+and are trying to merge in some very out-of-date pull requests.)  There 
+are lots of ways to do this.  
 
 > In what follows, the name of the repository is `mario-kart`.  
 > In our local repository, we have used `origin` to refer to the central repository, 
 > and `master` is the main branch of 
 > development.  Our fork (and github username) is `peach` and our branch that 
 > we submitted for the PR is called `power-up-additions`.  
-
 
 ## WAIT!  First update the primary branch
 
@@ -40,9 +40,10 @@ $ git checkout power-up-addition
 $ git merge master
 ~~~
 
-This will likely generate a conflict.  Resolve the conflict.
+This will likely generate a conflict.  Resolve the conflict.  Your 
+development branch is now updated.  
 
-### Alternatively (for smallish)
+### Alternatively (again for smallish changes)
 
 Rebase your old branch onto the tip of the main branch.  This essentially takes 
 your branch and "replants" it on the most current version of `master`.  
@@ -64,17 +65,12 @@ And then rebase:
 $ git rebase master
 ~~~
 
-This may cause a conflict.  Resolve as usual.  
+This may cause a conflict.  Resolve as usual to finish updating your branch.  
 
 (Optional: [squash all your changes into one commit before rebasing](
 pull-requests-squash.html) )
 
-https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request
-http://git-scm.com/docs/git-rebase
-http://git-scm.com/book/en/v2/Git-Branching-Rebasing	http://stackoverflow.com/questions/7947322/preferred-github-workflow-for-updating-a-pull-request-after-code-review
-
-### Development branch + master are wildly different, but you only want to 
-save a few features from the development branch
+### Saving just a few changes from the development branch
 
 I know some people have found cherry-pick hard to use, but I have had amazing 
 success with it, so I will include it here.  `git cherry-pick` is great if your development branch (`power-up-addition`) is old, wildly different from `master`, and you want just one or two changes from the development branch to merge back into `master`.  
@@ -82,7 +78,7 @@ success with it, so I will include it here.  `git cherry-pick` is great if your 
 I usually make a new branch when I use cherry-pick.  
 
 ~~~
-git checkout -b important-power-up-adds
+git checkout -b updated-power-up-additions
 ~~~
 
 Then, identify the commits from the old development branch that you want to save.  You can find these by checkout out that branch and running `git log`.  
@@ -96,7 +92,7 @@ Now I know that I just want the changes from commits `007`, `008` and `009`.  I'
 check out my new branch: 
 
 ~~~
-$ git checkout important-power-up-adds
+$ git checkout updated-power-up-additions
 ~~~
 
 And then cherry-pick my chosen commits on top.  
@@ -105,7 +101,7 @@ And then cherry-pick my chosen commits on top.
 git cherry-pick 007 008 009
 ~~~
 
-See (http://think-like-a-git.net/sections/rebase-from-the-ground-up/cherry-picking-explained.html) for more info.  
+See [this tutorial] (http://think-like-a-git.net/sections/rebase-from-the-ground-up/cherry-picking-explained.html) for more info.  
 
 (Optional: [squash all your changes into one commit before cherry-pick](
 pull-requests-squash.html) )
@@ -122,3 +118,21 @@ a new pull request.  There is no shame in this.
 In any of these situations, you should end up with either a new branch with changes 
 or an updated branch with changes.  Once everything is squared away, push those 
 branches to your fork to update existing pull requests or create a new one.  
+
+~~~
+$ git push peach power-up-additions
+~~~
+or
+~~~
+$ git push peach updated-power-up-additions
+~~~
+
+## Some links
+
+I find this the hairiest part of dealing with pull requests, so have some links 
+where I got some of this information!  
+
+* https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request
+* http://git-scm.com/docs/git-rebase
+* http://git-scm.com/book/en/v2/Git-Branching-Rebasing
+* http://stackoverflow.com/questions/7947322/preferred-github-workflow-for-updating-a-pull-request-after-code-review
