@@ -1,4 +1,3 @@
-Status: draft
 Title: Care and keeping of pull requests, part i
 Date: 2015-06-29 12:00
 Category: computing

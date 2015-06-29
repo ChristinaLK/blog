@@ -7,10 +7,8 @@ Authors: Christina Koch
 
 ## What is this?
 
-[This is a series of posts on managing pull 
-requests](http://christinalk.github.io/blog/tag/care-and-keeping-of-prs).  It 
-is [not an 
-introduction to git](https://try.github.io/levels/1/challenges/1), 
+[This is a series of posts on managing pull requests](http://christinalk.github.io/blog/tag/care-and-keeping-of-prs).  It 
+is [not an introduction to git](https://try.github.io/levels/1/challenges/1), 
 or a rundown of GitHub's features.  It is purely 
 a walkthrough of common (I hope!) pull request scenarios, aimed at someone 
 who might know [most of the necessary commands already](#prior), but not
@@ -41,8 +39,7 @@ via forking, cloning + remote add-ing.
 When working with remote + local repositories, the convention (as far as I 
 have seen/understand) is for `origin` to represent the remote that belongs to 
 you (your fork of the main repository) and `upstream` to represent the remote 
-that is the authoritative main repository (see this in the [original
-version](https://github.com/ChristinaLK/githubIsFun/blob/master/collaboration-diagram.svg) of the above figure).  I have **not** used this convention 
+that is the authoritative main repository (see this in the [original version](https://github.com/ChristinaLK/githubIsFun/blob/master/collaboration-diagram.svg) of the above figure).  I have **not** used this convention 
 in what follows; rather, I have used `origin` always for the authoritative 
 central repository and usernames for other named remotes.  This is partially 
 because I use this naming scheme myself; it also seems more clear to me for 
