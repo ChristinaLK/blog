@@ -3,26 +3,48 @@ Title: Care and keeping of pull requests
 Date: 2015-02-29 7:00
 Category: computing
 Tags: git, github, collaboration, version control, pull requests
-Slug: pull-requests
+Slug: pull-requests-disclaimer
 Authors: Christina Koch
 
-This is more of a reference to myself than anything else.  I know the basic steps of 
-creating a pull request (clone, branch locally, commit changes, push branch to fork, submit PR), but what happens next?  
+## What is this?
 
-In what follows, `origin` is the central repository, `master` is the main branch of 
-development, `my-fork` is your fork of the central repository and `my-patch` is the branch where you made your changes.  
+This is a series of posts on managing pull requests.  It is [not an 
+introduction to git](https://try.github.io/levels/1/challenges/1), 
+or a rundown of GitHub's features.  It is purely 
+a walkthrough of common (I hope!) pull request scenarios, aimed at someone 
+who might know [most of the necessary commands already](#prior), but not
+ the correct sequence in which to use them.  
 
-##Updating a pull request with more changes
+I've wanted to do this for a long time - not because the world NEEDS any 
+more git/GitHub tutorials, but just because I wanted to get all the ideas 
+straight in my head and lay them out in a way that makes sense to me.  If 
+just one or two people read + find this useful, it will have more than 
+succeeeded.  
 
-If the PR is recent and won't generate any conflicts, this is super easy.  Go back to your local copy (or if on a different computer, clone your fork).  Make sure you're in the correct branch and make/commit changes.  Push the branch to your fork and the PR on the main reposititory will automatically update.  Ta-da!  In code: 
+## Prior knowledge
 
-~~~
-git checkout my-patch
-~~~
-Make changes, then: 
-~~~
-git commit -m "making changes based on suggestions"
-git push my-fork my-patch
-~~~
+<a name="prior"></a>
+These posts assume that the reader already knows: 
 
-Forthcoming posts on what to do when there's a conflict between your PR and the `master`.  Git-fu abounds!
+- how to commit changes in git
+- how to commit changes after a conflict has been created
+- what a branch is (mostly)
+- the basic ideas of pushing/pulling
+- how to setup the "collaborative triangle" (as seen below) 
+via forking, cloning + remote add-ing.  
+
+![collaboration](imgs/collaboration.svg)
+
+## Remote naming
+
+When working with remote + local repositories, the convention (as far as I 
+have seen/understand) is for `origin` to represent the remote that belongs to 
+you (your fork of the main repository) and `upstream` to represent the remote 
+that is the authoritative main repository.  I have **not** used this convention 
+in what follows; rather, I have used `origin` always for the authoritative 
+central repository and usernames for other named remotes.  
+
+## Comments
+
+I haven't figured out how to get commenting on this blog, so feedback is welcome 
+as an issue or PR on the [Github page](https://github.com/ChristinaLK/blog).  ;)  
