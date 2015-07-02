@@ -2,7 +2,7 @@ Title: Care and keeping of pull requests
 Date: 2015-06-28 21:00
 Category: computing
 Tags: git, github, collaboration, version control, pull requests, care and keeping of prs
-Slug: pull-requests-disclaimer
+Slug: pull-requests
 Authors: Christina Koch
 
 ## What is this?
