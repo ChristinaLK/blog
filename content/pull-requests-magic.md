@@ -17,7 +17,7 @@ are lots of ways to do this.
 > In our local repository, we have used `origin` to refer to the central repository, 
 > and `master` is the main branch of 
 > development.  Our fork (and github username) is `peach` and our branch that 
-> we submitted for the PR is called `power-up-additions`.  
+> we submitted for the PR is called `banana-peels`.  
 
 ## WAIT!  First update the primary branch
 
@@ -36,7 +36,7 @@ Now you can tackle integrating your changes with the new authoritative copy.
 Merge the changes from the main branch into your development branch.  
 
 ~~~
-$ git checkout power-up-addition
+$ git checkout banana-peels
 $ git merge master
 ~~~
 
@@ -44,7 +44,7 @@ This will likely generate a conflict.  Resolve the conflict.  Your
 development branch is now updated.  
 
 ### Alternatively (again for smallish changes)
-
+<a name="rebase"></a>
 Rebase your old branch onto the tip of the main branch.  This essentially takes 
 your branch and "replants" it on the most current version of `master`.  
 
@@ -56,7 +56,7 @@ the only person who has contributed to the branch is probably you.
 
 Rebasing is done from the development branch.  Check it out: 
 ~~~
-$ git checkout power-up-addition
+$ git checkout banana-peels
 ~~~
 
 And then rebase: 
@@ -71,28 +71,29 @@ This may cause a conflict.  Resolve as usual to finish updating your branch.
 pull-requests-squash.html) )
 
 ### Saving just a few changes from the development branch
-
+<a name="cherry"></a>
 I know some people have found cherry-pick hard to use, but I have had amazing 
-success with it, so I will include it here.  `git cherry-pick` is great if your development branch (`power-up-addition`) is old, wildly different from `master`, and you want just one or two changes from the development branch to merge back into `master`.  
+success with it, so I will include it here.  `git cherry-pick` is great if your development branch (`banana-peels`) is old, wildly different from `master`, and you want just one or two changes from the development branch to merge back into `master`.  
 
-I usually make a new branch when I use cherry-pick.  
-
-~~~
-git checkout -b updated-power-up-additions
-~~~
-
-Then, identify the commits from the old development branch that you want to save.  You can find these by checkout out that branch and running `git log`.  
+I usually make a new branch when I use cherry-pick.  From the updated 
+`master` branch, create a branch. 
 
 ~~~
-$ git checkout power-up-addition
+git branch updated-banana-peels
+~~~
+
+Then, identify the commits from the old development branch that you want to save.  You can find these by checking out out that branch and running `git log`.  
+
+~~~
+$ git checkout banana-peels
 $ git log (or) git log --oneline
 ~~~
 
 Now I know that I just want the changes from commits `007`, `008` and `009`.  I'll 
-check out my new branch: 
+check out my new branch again: 
 
 ~~~
-$ git checkout updated-power-up-additions
+$ git checkout updated-banana-peels
 ~~~
 
 And then cherry-pick my chosen commits on top.  
@@ -120,11 +121,11 @@ or an updated branch with changes.  Once everything is squared away, push those
 branches to your fork to update existing pull requests or create a new one.  
 
 ~~~
-$ git push peach power-up-additions
+$ git push peach banana-peels
 ~~~
 or
 ~~~
-$ git push peach updated-power-up-additions
+$ git push peach updated-banana-peels
 ~~~
 
 ## Some links

@@ -22,20 +22,20 @@ First, create a new branch for the changes and check it out.  This can be done
 with two commands: 
 
 ~~~
-$ git branch power-up-additions
-$ git checkout power-up-additions
+$ git branch banana-peels
+$ git checkout banana-peels
 ~~~
 
 or with one: 
 
 ~~~
-$ git checkout -b power-up-additions
+$ git checkout -b banana-peels
 ~~~
 
 After changes are made and committed (with the usual `git add` + `git commit` combination), you can push the branch with your changes to *your* remote (`peach`):
 
 ~~~
-$ git push peach power-up-additions
+$ git push peach banana-peels
 ~~~
 
 This puts changes online in *your* (`peach`'s) copy of the repository.  Now you just need 
@@ -57,7 +57,7 @@ and see "Comparing Changes", make sure you have the following:
 * "base" branch: main development branch (`master`)
 * "head-fork": your repository 
 * branch to "compare": whatever you just pushed to your own repository 
-(`power-up-additions`)
+(`banana-peels`)
 
 Click on the big green button (two times) to finally 
 submit the pull request.  [[3](#all-the-buttons)]
@@ -69,13 +69,13 @@ computer.  Make sure you're in the correct branch (the one we
 were making changes in before)...
 
 ~~~
-$ git checkout power-up-additions
+$ git checkout banana-peels
 ~~~
 
 ...and make edits/commit changes as before.  Push your branch to your fork...
 
 ~~~
-$ git push peach power-up-additions
+$ git push peach banana-peels
 ~~~
 
 Ta-da!  That's it.  You
