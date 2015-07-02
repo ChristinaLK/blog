@@ -1,6 +1,5 @@
-Status: draft
 Title: Care and keeping of pull requests, part v
-Date: 2015-07-03 7:00
+Date: 2015-07-03 12:00
 Category: computing
 Tags: git, github, collaboration, version control, pull requests, care and keeping of prs
 Slug: pull-requests-squash
@@ -55,22 +54,22 @@ should be `bbb`, as it precedes `nnn`.
 
 ### Step 2: start the squashing process
 
-To actual squash commits, you'll be doing an interactive 
-rebase[[2](#sigh)], using the 
+To actually squash commits, you'll be doing an interactive 
+rebase[[3](#sigh)], using the 
 endpoint you chose above.  From `blue-lightning`, run: 
 
 ~~~
-git rebase -i bbb
+$ git rebase -i bbb
 ~~~
 
 This should throw you into your text editor.  
 
 > #### Aside
 > 
-> There are multiple ways of indicating your chosen endpoint
+> There are multiple ways of indicating your chosen endpoint in this command: 
 > * Use the actual commit value (shown above)
 > * Use `HEAD~1` notation (in the example above, `bbb` would be equivalent to `HEAD~4`
-> * If your endpoint commit is the tip of another branch (like `master`), use 
+> * If your endpoint commit is the tip of another branch (like `master`), you can use 
 > the name of the branch. 
 
 
@@ -94,7 +93,7 @@ Links I consulted re: squashing:
 * http://davidwalsh.name/squash-commits-git
 
 <a name="commentary">[1]</a>  I consider this a "bonus points" git 
-feature.  It's usually too fussy for me, 
+practice.  It's usually too fussy for me, 
 but has its moments of utility.  So here we are.  
 
 <a name="clopen">[2]</a> For the mathematically minded among you, this 
@@ -103,5 +102,7 @@ a half-open interval of the form: (oldest commit, newest commit].
 
 <a name="sigh">[3]</a> From my limited reading, it sounds like interactive 
 rebasing is the power-drill of git features, as opposed to poking around 
-with hammers and screwdrivers.  I cannot, in any way, reverse-engineer my 
-intuition to make this an obvious fact.  
+with the hammers and screwdrivers of `git commit` and `git push` (etc).  I cannot, 
+in any way, reverse-engineer my 
+intuition to make `git rebase` the obvious choice for git-feature-
+that-does-everything.   
