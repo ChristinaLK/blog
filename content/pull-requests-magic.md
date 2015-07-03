@@ -31,6 +31,8 @@ $ git pull origin master
 
 Now you can tackle integrating your changes with the new authoritative copy.  
 
+## Update your development branch
+
 ### For minor changes
 
 Merge the changes from the main branch into your development branch.  
@@ -86,7 +88,12 @@ Then, identify the commits from the old development branch that you want to save
 
 ~~~
 $ git checkout banana-peels
-$ git log (or) git log --oneline
+$ git log --oneline
+009 added other image
+008 added image 
+007 changed the header
+006 FEAR THE BORG
+005 TOO MANY TRIBBLES
 ~~~
 
 Now I know that I just want the changes from commits `007`, `008` and `009`.  I'll 
@@ -102,7 +109,10 @@ And then cherry-pick my chosen commits on top.
 git cherry-pick 007 008 009
 ~~~
 
-See [this tutorial] (http://think-like-a-git.net/sections/rebase-from-the-ground-up/cherry-picking-explained.html) for more info.  
+This will take the changes from those three commits, and place them on 
+`updated-banana-peels`.   
+
+See [this tutorial](http://think-like-a-git.net/sections/rebase-from-the-ground-up/cherry-picking-explained.html) for more info.  
 
 (Optional: [squash all your changes into one commit before cherry-pick](
 pull-requests-squash.html) )

@@ -72,7 +72,6 @@ This should throw you into your text editor.
 > * If your endpoint commit is the tip of another branch (like `master`), you can use 
 > the name of the branch. 
 
-
 ### Step 3: indicate which commits you want to squash together
 
 In the text editor, there will be a list of the commits between your 
@@ -88,9 +87,11 @@ is the message for the most recent commit of the aggregate).  Save and close.
 
 ### The end!  
 
-Links I consulted re: squashing: 
+## Links I consulted
+
 * https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History
 * http://davidwalsh.name/squash-commits-git
+* http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html
 
 <a name="commentary">[1]</a>  I consider this a "bonus points" git 
 practice.  It's usually too fussy for me, 
