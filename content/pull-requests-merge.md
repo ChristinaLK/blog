@@ -35,7 +35,7 @@ The end.
 ## Merging pull requests locally.  
 
 On Github, find the pull requestor's copy of the repository.  Fetch that 
-repository, and check out the branch that they're comparing (as [previously described](http://christinalk.github.io/blog/pull-requests-fetch.html) on this blog).  If 
+repository, and check out the branch that they're comparing (as [previously described](http://christinalk.github.io/blog/pull-requests-fetch.html) ).  If 
  the requestor is Luigi and his development branch to be merged is called 
 `turtle-shell`, that process would look something like: 
 
@@ -63,7 +63,7 @@ The merge is now complete; you just need to push the newly merged-in
 changes to the central repository: 
 
 ~~~
-git push origin master
+$ git push origin master
 ~~~
 
 Through some magic, Github will recognize that the changes from that pull 

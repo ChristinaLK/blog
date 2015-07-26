@@ -67,8 +67,11 @@ This should throw you into your text editor.
 > #### Aside
 > 
 > There are multiple ways of indicating your chosen endpoint in this command: 
+
 > * Use the actual commit value (shown above)
+
 > * Use `HEAD~1` notation (in the example above, `bbb` would be equivalent to `HEAD~4`
+
 > * If your endpoint commit is the tip of another branch (like `master`), you can use 
 > the name of the branch. 
 
