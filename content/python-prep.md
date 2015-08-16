@@ -5,10 +5,11 @@ Tags: python, software carpentry, learning, education
 Slug: python-prep
 Authors: Christina Koch
 
-**Context:** I read a [blog post](http://blog.byronjsmith.com/swc-python-lesson.html) by [Byron Smith](https://twitter.com/ByronJSmith), [tweeted](https://twitter.com/rgaiacs/status/632519587679084544) by [Raniere Silva](https://twitter.com/rgaiacs) about his experience teaching the Software Carpentry novice Python lesson.  As I had just started to prepare to teach the Python lesson myself, I thought I'd write up what I've done so far, and how I plan to 
+**Context:** I read a [blog post](http://blog.byronjsmith.com/swc-python-lesson.html) by [Byron Smith](https://twitter.com/ByronJSmith), [tweeted](https://twitter.com/rgaiacs/status/632519587679084544) by [Raniere Silva](https://twitter.com/rgaiacs) about his first time teaching the Software Carpentry novice Python lesson.  He makes some great observations about the challenges 
+faced by a first-time instructor, tackling this lesson.  I'm not a first-time instructor, but I had just started to prepare to teach the Python lesson myself, so I thought I'd write up what I've done so far, and how I plan to 
 continue.  
 
-I've been slated to teach Python at a Software Carpentry workshop at the 
+I've been slated to teach Python at a [Software Carpentry workshop](http://uw-madison-aci.github.io/2015-08-26-uw-madison/) at the 
 end of August, through my job at the University of Wisconsin Madison.  I've 
 taught the Python lesson before, but not for several months, and I remembered 
 having trouble figuring out the lesson fit together, so I was a bit 
@@ -30,7 +31,8 @@ The answers, as I see them in the lesson are:
 
 So in terms of teaching, 
 I plan to introduce very quickly that python can be run on the command line, 
-or in an IDE like the notebook, we will be using the notebook, and a quick tour.  
+or in an IDE like the notebook, we will be using the notebook, and a quick tour 
+of the notebook.  
 
 I will then present the guiding question, as above, and explain that the lesson 
 will be talking about big picture answers to that question (that can be applied 
@@ -53,7 +55,7 @@ workshop.
 I will be skipping all the material on errors, testing and debugging, as our 
 workshop will cover that separately in a different session. I will possibly 
 omit certain sections of lessons (for example, the example of testing a function in 
-"Creating Functions").  "Making choices" may get moved to after "Creating Functions" 
+"Creating Functions").  "Making Choices" may get moved to after "Creating Functions" 
 (still on the fence for that one.   I hope to make it 
 all the way to command-line programs by the end of the morning.  
 
@@ -62,16 +64,16 @@ The one thing that doesn't fit well
 framework above, is the extensive discussion of indexing in the very first part of 
 the lesson.  I may skip it entirely, or move it to the portion of the lesson on 
 lists.  And when I talk about lists, I will point out that it is a sidebar to 
-our main goal (making smart choices), but we need to know about it in order to 
+our main goal (making smart choices about how we solve this task using our programming skills), but we need to know about it in order to 
 do other things.  Also, while it's not a focus of the lesson, I will probably 
 use the list portion to point out that your language probably has a "native" 
 data type for lots of pieces of data and it's important to understand how at 
 least the base type works in order to program effectively.  
 
-Having thought this through, I'm planning to do a practice run this week
+I'm planning to do a practice run this week
 (testing if it's worth it to juggle 
 two notebooks, how long the typing will take if I expect people to follow me, 
-where I need to cut and paste).  I've printed out the lessons and will 
+where I need to cut and paste, etc., etc.).  I've printed out the lessons and will 
 annotate them with things like which notebook to be using, when to break for 
 exercises, etc.  I also need to create a page with my exercises of choice, and 
 (several hours later) I hope to be ready.  
