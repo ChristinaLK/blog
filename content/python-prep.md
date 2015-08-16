@@ -1,7 +1,7 @@
 Title: Preparing to teach Python
 Date: 2015-08-16 15:00
 Category: teaching
-Tags: python, software carpentry, 
+Tags: python, software carpentry, learning, education
 Slug: python-prep
 Authors: Christina Koch
 
