@@ -42,10 +42,12 @@ leave their second sticky on the table.  Have everyone rise with just the first
 sticky (again) and take another photo.  
 
 To wrap up, explain that everyone has just experienced a typical git workflow...
-* create a recording device, also known as a repository (the smartphone/tablet)
-* stage data files (standing up)
-* commit those changes (take a picture)
-* repeat the process, with the ability to stage and commit groups of files (half and half)
+
+* Create a recording device, also known as a repository (the smartphone/tablet)
+* Stage data files (standing up)
+* Commit those changes (take a picture)
+* Repeat the process, with the ability to stage and commit groups of files (half and half)
+
 ...and that you'll now be covering the commands used in the shell to achieve
 the same thing.  
 
@@ -68,13 +70,13 @@ it.  If anyone can provide evidence to support me, that'd be great!
 ## Shell group activity
 
 There's a fine line in the shell lesson between "teaching shell commands", 
-"teaching shell concepts", and "teaching the general concepts behind shell."  Life 
-is challenging.  
+"teaching shell concepts", and "teaching general programming constructs by using 
+the shell."  Life is challenging.  
 
 One thing I do to address this balance is break up the shell lesson into two 
 pieces.  The first piece is "shell concepts" (the idea of the filesystem, and being 
-able to run any command from anywhere) and the second piece is "general concepts 
-behind shell" (scripts, loops, pipes and filters).  To bridge the two, I take a little 
+able to run any command from anywhere) and the second piece is "general programming 
+constructs" (scripts, loops, pipes and filters).  To bridge the two, I take a little 
 break and have people investigate shell commands themselves.  The logical link for me 
 is: we've learned about some very basic shell commands + how the shell works generally; 
 now let's do a (brief!) overview of some of the variety of shell commands; then we 
@@ -84,16 +86,16 @@ this variety of commands in *even more* ways.
 The activity is very simple - I divide the room into groups and give each of them 
 a shell command to research.  A sample list might be: 
 
-* less vs cat
-* head
-* grep
-* wc
-* sort
-* uniq
-* find
-* cut
+* `less` vs `cat`
+* `head` and `tail`
+* `grep`
+* `wc`
+* `sort`
+* `uniq`
+* `find`
+* `cut`
 
-Each group needs to use the `man` pages (or internet) to find out what the command 
+Each group needs to use the `man` pages (or the internet) to find out what the command 
 does, think of an example for the instructor (me) to demonstrate, and describe a 
 scenario where that command might be useful.  After a few minutes working together, 
 each group "presents" to the large group, facilitated by the instructor.  I'm 
