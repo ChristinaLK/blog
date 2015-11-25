@@ -6,7 +6,7 @@ Tags: programming, computing, motivation, teaching, education, pedagogy, R, data
 Slug: cognitive-load
 Authors: Christina Koch
 
-At the end of the day today, my colleage Lauren and I were discussing 
+At the end of the day yesterday, my colleage Lauren and I were discussing 
 the upcoming Data Carpentry workshop that we'll be hosting at the University 
 of Wisconsin - Madison.  Talking over the order of material (spreadsheets, 
 OpenRefine, then SQL, and ending with a day of R), we realized that we liked 
