@@ -1,3 +1,4 @@
+Status: draft
 Title: Stating the Obvious
 Date: 2015-11-24 23:00
 Category: teaching

@@ -6,9 +6,9 @@ Slug: git-models
 Authors: Christina Koch
 
 There are several motivations to this post: 
-- always seeking ways to explain git more clearly (one example given 
-in my [previous post](activities.html))
-- thinking about the idea of [threshold concepts](http://www.ee.ucl.ac.uk/~mflanaga/thresholds.html) (which, as it 
+- I'm always seeking ways to explain git more clearly (one example given 
+in my [previous post](activities.html)).
+- I've been thinking about the idea of [threshold concepts](http://www.ee.ucl.ac.uk/~mflanaga/thresholds.html) (which, as it 
 sounds, are concepts necessary to achieve a new level of understanding)...in 
 particular, considering what threshold concepts are important for novice 
 learners in Software Carpentry workshops.  
@@ -23,7 +23,7 @@ it will be helpful for people who *have* done a lot with the shell, but
 are still uncomfortable with git.  
 
 So let's start with
-interacting with a Unix system via the shell.  For me, one "threshold concept" in 
+interacting with a Unix system via the shell.  For me, one threshold concept in 
 understanding the shell is "location is everything."  Everything you do 
 in the shell is done in the context of the filesystem.  From within 
 a shell, you can move yourself from one arbitrary point in 
@@ -54,7 +54,7 @@ list of files in this time, the `ls` of git, is `git status`.
 And, of course, both the filesystem + and a git commit history are 
 represented as trees.  
 
-This relationship isn't going to help answer all your git 
+This relationship isn't going to help answer all the git 
 questions.  It
 doesn't really address remotes, nor does it provide a good equivalent for the names 
 of git branches (what would the equivalent of `master` be in the 
