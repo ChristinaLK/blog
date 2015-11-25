@@ -9,14 +9,16 @@ Authors: Christina Koch
 faced by a first-time instructor, tackling this lesson.  I'm not a first-time instructor, but I had just started to prepare to teach the Python lesson myself, so I thought I'd write up what I've done so far, and how I plan to 
 continue.  
 
+<hr>
+
 I've been slated to teach Python at a [Software Carpentry workshop](http://uw-madison-aci.github.io/2015-08-26-uw-madison/) at the 
 end of August, through my job at the University of Wisconsin Madison.  I've 
 taught the Python lesson before, but not for several months, and I remembered 
 having trouble figuring out the lesson fit together, so I was a bit 
 concerned as I opened up tabs with the [lesson pages](http://swcarpentry.github.io/python-novice-inflammation/) and [github repo](https://github.com/swcarpentry/python-novice-inflammation).  
 
-Fortunately, reading through the lesson, I was able to make sense of the content 
-and order by the guiding statement/question: 
+Reading through the lesson, I hit on the following guiding statement/question to make sense of the content 
+and order: 
 
 > We have to accomplish a task (reading in data, analyzing and plotting it)
 > by writing a program.  How can we be smart about it?
@@ -79,4 +81,5 @@ exercises, etc.  I also need to create a page with my exercises of choice, and
 (several hours later) I hope to be ready.  
 
 I'll have to report back in early September to see if it went as smoothly 
-as I'm hoping!  
+as I'm hoping!  Also, will file issues and PRs on the official repository, 
+based on my experiences.  ;)  
