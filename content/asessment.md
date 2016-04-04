@@ -1,5 +1,5 @@
 Title: Assessing Life
-Date: 2016-04-03 23:00
+Date: 2016-04-03 17:00
 Category: personal
 Tags: personal, teaching, education, assessment, perfectionism, mental health
 Slug: assessment
@@ -37,7 +37,6 @@ were always pretty good at taking tests in school.
 
 Well, what are the alternatives? One is to realize that so-called 
 "failure" is not the end of the world.  However, for an entrenched perfectionist, 
-(as I have been, at points in my life)
 that's really hard!  I know that my difficulty in accepting my own failures, 
 can sometimes itself become another place where I feel I've failed.  That's also 
 not a great cycle.  
@@ -49,3 +48,8 @@ moments of evaluation as chances to grow and learn - acknowledges the truth that
 as a normal person, I'm not going to be great at everything right away.  It'll 
 take time and feedback to get to where I want to be.  
 
+Professionally, I've gotten a lot better at this.  Personally, not always so much.  But 
+in the spirit of ongoing growth, that's okay too.  :)  If I can convey these 
+ideas to students with any conviction, both through my teaching practice and as  
+a lived example, I like to think I'll have accomplished something 
+as a teacher.  
