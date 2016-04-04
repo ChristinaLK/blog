@@ -41,14 +41,16 @@ it hard to teach novices.
 
 If this really is the case and I'm not just making up mental blocks, I think 
 there are two implications for pedagogy: 
+
 * Draw pictures.  Give learners something to see visually, so that it's 
 not all text commands.  
 * Use "seeing" commands often and draw attention to them.  What do I mean by 
 a "seeing" command?  Something that makes the invisible visible.  For example: 
-   * shell: `pwd` and `ls`
-   * git: `git status`; for branches, `git branch`; for remotes, `git remote -v`
-   * R: `names(datframe)`, `str(dataframe)`
-   * any programming language: print statements
-   * SQL: `.tables` and `SELECT * FROM table;`
+	* shell: `pwd` and `ls`
+	* git: `git status`; for branches, `git branch`; for remotes, `git remote -v`
+	* R: `names(datframe)`, `str(dataframe)`
+	* any programming language: print statements
+	* SQL: `.tables` and `SELECT * FROM table;`
+	
 All of these commands allow someone to "see" the data or changes or location that 
 otherwise might be unnoticed.  

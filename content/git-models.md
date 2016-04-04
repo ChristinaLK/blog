@@ -6,13 +6,14 @@ Slug: git-models
 Authors: Christina Koch
 
 There are several motivations to this post: 
-- I'm always seeking ways to explain git more clearly (one example given 
+
+* I'm always seeking ways to explain git more clearly (one example given 
 in my [previous post](activities.html)).
-- I've been thinking about the idea of [threshold concepts](http://www.ee.ucl.ac.uk/~mflanaga/thresholds.html) (which, as it 
+* I've been thinking about the idea of [threshold concepts](http://www.ee.ucl.ac.uk/~mflanaga/thresholds.html) (which, as it 
 sounds, are concepts necessary to achieve a new level of understanding)...in 
 particular, considering what threshold concepts are important for novice 
 learners in Software Carpentry workshops.  
-- [This recent XKCD](http://xkcd.com/1597/)
+* [This recent XKCD](http://xkcd.com/1597/)
 
 Git is challenging.  There's no getting around it.  But I've found some 
 coherence in the complexity by taking a key concept from the unix shell

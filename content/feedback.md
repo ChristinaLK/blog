@@ -6,7 +6,9 @@ Slug: feedback-confessions
 Authors: Christina Koch
 
 This is a post for people who identify with this comic: 
-<img src=http://www.deathbulge.com/images/comics/155.jpg">
+
+![jerk](http://www.deathbulge.com/images/comics/155.jpg)
+
 [source](http://www.deathbulge.com/comics/155)
 
 In particular, this is a post for people who struggle with receiving feedback, 
@@ -38,6 +40,7 @@ it's still important to remind myself that:
     * "look at the positives along with the negatives."
     * "it's not the end of the world."  
 	* etc.
+
 Mental habits matter!  
 
 * Use a feedback translator.  This is one of my favorite ways to get feedback when 
