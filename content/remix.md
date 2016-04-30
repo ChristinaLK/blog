@@ -1,0 +1,167 @@
+Title: Lessons, Remixed
+Date: 2016-04-29 23:00
+Category: teaching
+Tags: lessons, collaboration, teaching, confessions
+Slug: remix
+Authors: Christina Koch
+
+This is a reponse and riff (shall we say remix?) on [Greg Wilson's](https://twitter.com/gvwilson)
+[blog post](http://third-bit.com/2016/04/29/why-teachers-dont-collaborate.html) from earlier today on collaborative lesson development, where he 
+lists reasons given for a lack of collaborative lesson development and 
+why he finds these reasons un-compelling.  
+
+My tl;dr response: I agree with his conclusion that remixing 
+is the best analogy for collaborative 
+lesson development.  But feel free to read on why.  
+
+# Metaphors
+
+I think it's fair to say that Greg finds it odd that 
+other endeavours (open 
+source software, wikipedia) have managed to use collaboration so effectively and 
+lesson development...not so much.  But as he acknowledges 
+at the end of his post, perhaps that's the wrong comparison 
+to make.  I think that's closest to the truth.  Comparing 
+collaborative lesson development 
+with collaborative software development is like comparing apples and oranges.  
+
+Here's two angles on why: 
+
+## Performance
+
+Here I'm drawing on a metaphor that's worked its way into the 
+[Software Carpentry instructor training](http://swcarpentry.github.io/instructor-training/): teaching as 
+a performance, comparable to music and theatre.  
+
+Software, by definition, needs to do the same thing every time.  Its 
+authors may haggle over what it should do and how to implement it, but 
+once that's been decided, the written code should translate into a single 
+performance - as it's meant to!  
+
+Whereas, even if a group of teachers got together to decide what to 
+do (lesson objectives) and how to do it (lesson plans), the performance 
+of each teacher will be different.  
+
+But, you say, actors all 
+manage to provide their own unique interpretations of, say, Romeo and Juliet 
+while working from the same script!  Surely teachers can do the same.  
+
+Teaching *can* be like theatre.  One type of teaching - lectures - 
+is definitely theatre.  There is a script, it is interpreted (sometimes to great 
+effect!), the audience applauds at the end.  You might even have a very 
+well-developed semester-long course that incorporates more active learning 
+techniques, where it really can be delivered from a "script".  
+
+But the 
+type of teaching we're striving for in Software Carpentry feels 
+a bit more like improv or stand-up comedy.  And for 
+improv, you don't necessarily need or want a whole script.  You 
+need some principles about how comedy generally works (timing, the 
+2 joke build-up, 3rd joke payoff, say yes, etc.) and then you need 
+some starting material.  Which leads to my second metaphor.  
+
+## Writing
+
+In college, it's common for a whole class to be assigned a single 
+topic for a paper.  Everyone - in some sense - has to write the same 
+paper.  But each paper will be slightly different.  Some may structure 
+their argument slightly differently, some may choose to emphasize one 
+line of thought over another.  
+
+All the papers will share one thing though - their sources.  The collected 
+wisdom of the academic community gets recycled and remixed in order to 
+support a point or argument.  
+
+Teaching can be like collaboratively "writing" a paper out loud.  You need 
+source material (exercises, analogies, activities) in order to support 
+your argument (learning objective) so that learners understand your conclusions.  
+
+(Here's where I'll note that the most time-consuming part of paper writing 
+is not necessarily the writing, 
+but finding your sources, reading them, and then choosing the bits that 
+best support your argument.)
+
+# Unicorns
+
+What the two previous metaphors have in common is the need for 
+"source" material.  When it comes to teaching, I'm thinking 
+of source material as good examples for live demos, 
+activities that tie into learning objectives (and are well scaffolded), 
+and other bits and bobs like metaphors, helpful diagrams, and funny 
+videos.  That's where I would want to collaborate, mostly 
+because those are the pieces that take a long time to create myself.  
+
+What does that sharing look like?  Here are two thoughts: 
+
+## Metadata and Remixing
+
+When I was teaching first year calculus, I had the outline for my "paper"
+(the syllabus), and I knew the math.  What I needed was material: 
+actual examples and activities for my class.  
+
+"Isn't that what the textbook is for?" you say?  Yes and no.  A textbook is 
+full of math problems - but not in a way that helps me as a teacher.  My dream, 
+as a math instructor, was having a set of problems with **metadata**.  (As a very 
+concrete example: 
+* Related rates problems not requiring a substitution.  
+* Related rates problems requiring a substitution.  
+* Related rates where you're finding a rate.  
+* Related rates where you're finding a value.  
+With at least three different versions of each type, 
+even if it just meant having different numbers in the problem.)  
+
+Along these lines, I think the greatest value in 
+the Software/Data Carpentry lessons is having 
+a pile of example data/files to start with.  In the [shell lesson](http://swcarpentry.github.io/shell-novice) 
+we say: *here* 
+is a set of directories and files to muck around with.  And to some extent, there's
+metadata: use *this* set of files to demonstrate pipes; use *this* directory to 
+show how `find` works.  Creating these examples from scratch (and have 
+them be meaningful) is **hard**; remixing them, on the other hand, is easy.  I 
+have remixed the [SWC Python](http://swcarpentry.github.io/python-novice-inflammation) lesson twice now.  It's been pretty easy to pull into its 
+consistituent pieces and rearrange - not because the original lesson is flawed, 
+but because I'm trying to tell the same story, with the same 
+pieces, in my own voice.  
+
+## Open Mic Night
+
+I've come to realize that it really is valuable to observe  
+other people teach.  I *always* learn something new when watching 
+someone else teach material I've already taught.  To return to the comedy 
+metaphor - we need fresh material.  We need to see each other's jokes.  
+
+This is a harder kind of knowledge to pin down and share.  How do 
+you share performance?  Watch other people teach?  Talk about it?  
+Write it down?  What would a teaching "open mic night" look like?  
+
+To some extent, these questions are being explored (if not fully answered) 
+by the Carpentry communities, which is pretty sweet.  Folks have 
+investigated a lot of options: Edthena, for 
+watching videos; [workshop pre+de-briefings](http://pad.software-carpentry.org/instructor-discussion) to knowledge-share; lesson 
+instructor guides with written tips; last year's [instructor
+retreat](http://swcarpentry.github.io/instructor-retreat-2015/) as a sort-of open mic experiment.  There's no single solution yet, but it's awesome that 
+there is a critical mass interested in this kind of sharing, and is 
+really trying it out.  
+
+# Being Human
+
+This turned into a very long post with a lot of opinions, so I think 
+it's important to end with a personal confession.  
+
+I have all these metaphors and reasons and explanations, but 
+part of the reason I don't want to collaborate on lessons, especially 
+to use someone else's material, is because 
+I'm egotistical.  There is part of me that wants to be creative.  Wants 
+to do something 
+different.  Wants to be acknowledged for my brilliant teaching.  There's 
+always a little piece of me that says "I could do it better" or "I would rather 
+just do it my way."    
+
+So that's another place to start: humility.  To get off the high horse 
+of my own ideas and listen to research, learners, other instructors.  Bit 
+by bit (and it's not easy!), I've got to overcome an individualistic, 
+teacher-centered view in 
+favor of communal knowledge, learner-centered approaches.  
+
+Collaboration is only possible when I'm willing to set aside *my* agenda to reach 
+a common goal, in the context of a similarly-minded community.  
