@@ -1,0 +1,92 @@
+Title: Recent reading
+Date: 2016-05-03 23:00
+Category: media
+Tags: books
+Slug: reading-may-2016
+Authors: Christina Koch
+
+I have not read a ton of books so far this year (10 books in 4 months is, um, 
+slow for me).  However, of the books I have read, the following two made an 
+impact and I would highly recommend reading!  
+
+*Gilead*, by Marilynne Robinson
+
+When I was at Regent College, I had a few friends who *loved* Marilynne 
+Robinson's writing.  I had read *Gilead* in a past life (as an undergrad, maybe?) 
+and frankly, been unimpressed.  I remembered a book that I really had to 
+push through to finish; when people raved about Robinson's prose, I was 
+like, "overrated? maybe?"  
+
+Hahaha, just kidding!  *Gilead* is amazing.  I've been converted.  
+
+The story: I went for a walk back in March and saw a copy 
+of *Gilead* in a Little Free 
+Library box.  I was in the right kind of mood to take it out, read 
+the first sentence, and immediately knew that this book was not going 
+anywhere -- certainly not back to the Little Free Library!  
+
+I feel like to describe the book is to do it a disservice, so I'll 
+stick with the basics: it's a father writing his life story to his 
+son.  He is old and yet manages to be neither naive nor cynical - remembering 
+his life and facing his death in a way that holds together both its 
+burdens/sorrows and unfamthomable gifts of grace.  And  
+Marilynne Robinson's writing is indeed beautiful - the father's voice 
+is simple, profound, and above all, sincere.  
+
+*Gilead* may not be for everyone - clearly, it was not the right book 
+for Christina in her early twenties.  But if you don't like it the first time,
+it might be worth coming back to.  
+
+*A Soldier of the Great War*, by Mark Helprin
+
+I just finished this last night, and, rather like my initial experience 
+with *Gilead*, this was a long read.  First of all, it is a pretty long 
+book.  Also, while the language and writing is beautiful, 
+it's sufficiently literary that you can't just effortlessly skim along. (*Hunger 
+*Games, this is not.)  Finally, 
+especially at the beginning, it was 
+harder to read because not much was "happening."  However, 
+once I had gotten into the story, it was worth going on. 
+ 
+As the title would suggest, the book is about one Italian man, 
+Alessandro: his youth growing up outside Rome and then his 
+experiences as a soldier during World War I.  
+
+It was the kind of book that grew on me.  Once I got into it, I realized 
+that I was reading slowly because I was feeling so much empathy for 
+Alessandro and his comrades.  The story is not painful to read 
+because of overwhelming bloodshed, graphic depictions of violence, or 
+any historical fact about World War I.  Thousands of men dying is treated 
+in a single sentence - what matters more are the particular men that 
+Alessandro knows and loves: their struggles and desperation to stay alive, 
+to see their families again, to return to their beloved homes.  Knowing 
+something about these characters, there is almost a terrible artistry 
+in how they die - somehow making what is already painful, the most painful, 
+the most terrible, in the worst way.  
+
+And that's what makes the book worth reading - because it doesn't go to 
+that dark place without also constantly pursuing why, in 
+fact, life is still worth living, despite everything.  I kept 
+reading for the same reason that Alessandro carries 
+on in the story - for the glimpses of beauty, for the bits of goodness that  
+can't be silenced, for exactly the love that makes it so painful when 
+people die.  
+
+Having finished *A Soldier of the Great War*, I realized that it reminded me of 
+two of my past favorite novels: 
+
+* The Brothers K, David James Duncan. 
+	*The Brothers K* is about family (especially fathers and sons), 
+	the broad sweep of life and the impact of war, all themes that appear 
+	in *A Soldier of the Great War*.  This is another book I wholeheartedly 
+	recommend to anyone who loves to read.  
+* Anna Karenina, Leo Tolstoy. 
+	* Like *A Soldier of the Great War*, *Anna Karenina* describes one 
+	man's (Levin's) and woman's (Anna's) struggle to live beautifully 
+	and find meaning in the context of their world.  Also, like  *A Soldier 
+	of the Great War*, is written not so much around plot, as character, 
+	and especially world (including some long descriptive passages that may 
+	not be 100% necessary).
+
+So I'm thinking that this will definitely be a book I re-read at a later 
+time and there will be more to mined then.  
