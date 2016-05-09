@@ -1,0 +1,28 @@
+Title: History
+Date: 2016-05-07 23:00
+Category: personal
+Tags: history, family
+Slug: history
+Authors: Christina Koch
+
+I was talking to my brother tonight and somehow age/birthdays came up.  He 
+said that he'd been thinking about time and history, pointing out that between 
+the year he was born and now is the same amount of time as between his birth 
+year and Kennedy's assassination.  
+
+An interesting thought.  Then, without missing a beat, he said that for me, 
+the time between me being born and now would be the same (roughly) as 
+Sputnik and the year I was born.  In other words, when I was born, a person 
+of my current age would have been born in the middle of the Space Race.  
+
+And, my brother concluded, for my grandfather,
+if you reversed his current lifetime from the 
+year of his birth, you'd end up in the Mexican-American War.  
+
+First of all, the fact that my brother can whip these facts out of thin 
+air indicates that I am not the only nerd of the family.  
+
+Second, this is a trippy way of thinking about time 
+and history!  As my brother observed, it makes you realize how 
+very young the U.S. is - as a country we haven't even been around for 
+10 generations (if 1 generation = 30 years).  
