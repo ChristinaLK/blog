@@ -17,7 +17,7 @@ and frankly, been unimpressed.  I remembered a book that I really had to
 push through to finish; when people raved about Robinson's prose, I was 
 like, "overrated? maybe?"  
 
-Hahaha, just kidding!  *Gilead* is amazing.  I've been converted.  
+Hahaha, just kidding!  
 
 The story: I went for a walk back in March and saw a copy 
 of *Gilead* in a Little Free 
@@ -25,11 +25,12 @@ Library box.  I was in the right kind of mood to take it out, read
 the first sentence, and immediately knew that this book was not going 
 anywhere -- certainly not back to the Little Free Library!  
 
-I feel like to describe the book is to do it a disservice, so I'll 
-stick with the basics: it's a father writing his life story to his 
-son.  He is old and yet manages to be neither naive nor cynical - remembering 
+I feel like to describe the book too much is to do it a disservice, so I'll 
+try to restrain myself.  The story: a father writing his life story to his 
+son.  The father is an old man, and manages to be 
+neither naive nor cynical - remembering 
 his life and facing his death in a way that holds together both its 
-burdens/sorrows and unfamthomable gifts of grace.  And  
+burdens/sorrows and unfamthomable gifts of grace.  And 
 Marilynne Robinson's writing is indeed beautiful - the father's voice 
 is simple, profound, and above all, sincere.  
 
@@ -40,14 +41,14 @@ it might be worth coming back to.
 *A Soldier of the Great War*, by Mark Helprin
 
 I just finished this last night, and, rather like my initial experience 
-with *Gilead*, this was a long read.  First of all, it is a pretty long 
-book.  Also, while the language and writing is beautiful, 
+with *Gilead*, I found this a long read.  First of all, it is a pretty long 
+book, straight-up.  Also, while the language and writing is beautiful, 
 it's sufficiently literary that you can't just effortlessly skim along. (*Hunger 
-*Games, this is not.)  Finally, 
+Games*, this is not.)  Finally, 
 especially at the beginning, it was 
 harder to read because not much was "happening."  However, 
 once I had gotten into the story, it was worth going on. 
- 
+
 As the title would suggest, the book is about one Italian man, 
 Alessandro: his youth growing up outside Rome and then his 
 experiences as a soldier during World War I.  
@@ -68,15 +69,15 @@ And that's what makes the book worth reading - because it doesn't go to
 that dark place without also constantly pursuing why, in 
 fact, life is still worth living, despite everything.  I kept 
 reading for the same reason that Alessandro carries 
-on in the story - for the glimpses of beauty, for the bits of goodness that  
+on in the story - for the glimpses of beauty, for the bits of goodness that 
 can't be silenced, for exactly the love that makes it so painful when 
 people die.  
 
 Having finished *A Soldier of the Great War*, I realized that it reminded me of 
-two of my past favorite novels: 
+two of my favorite novels: 
 
 * The Brothers K, David James Duncan. 
-	*The Brothers K* is about family (especially fathers and sons), 
+	* *The Brothers K* is about family (especially fathers and sons), 
 	the broad sweep of life and the impact of war, all themes that appear 
 	in *A Soldier of the Great War*.  This is another book I wholeheartedly 
 	recommend to anyone who loves to read.  
@@ -88,5 +89,6 @@ two of my past favorite novels:
 	and especially world (including some long descriptive passages that may 
 	not be 100% necessary).
 
-So I'm thinking that this will definitely be a book I re-read at a later 
-time and there will be more to mined then.  
+So I'm thinking that *A Soldier of the Great War* will 
+definitely be a book I re-read at a later 
+time and there will be more to be mined then.  

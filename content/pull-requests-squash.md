@@ -81,8 +81,30 @@ In the text editor, there will be a list of the commits between your
 two endpoints.  They should all be prefaced by the word "pick."  As the 
 text in the editor should helpfully indicate, if you change the "pick" prefix 
 to the word "squash", git will try to squash those commits together.  You 
-should leave the most recent commit of the squash as "pick", as that will be 
-the commit that the others are squashed into.  Save 
+should leave the oldest commit of the squash as "pick", as that will be 
+the commit that the others are squashed into.  In our example, that will 
+turn this: 
+
+~~~
+pick nnn Zounds!
+pick ooo Zoom! 
+pick sss Zing! 
+pick zzz Zap
+~~~
+
+into this: 
+
+~~~
+pick nnn Zounds!
+squash ooo Zoom! 
+squash sss Zing! 
+squash zzz Zap
+~~~
+
+Note that the commits are liste from oldest to newest, which is 
+opposite of their order in `git log`.  
+
+Save 
 and close the file.  Moments later, your text editor will open again, with 
 a second file allowing you to modify the 
 commit message that will be attached to the new aggregate commit (the default 

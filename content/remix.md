@@ -103,10 +103,12 @@ actual examples and activities for my class.
 full of math problems - but not in a way that helps me as a teacher.  My dream, 
 as a math instructor, was having a set of problems with **metadata**.  (As a very 
 concrete example: 
-* Related rates problems not requiring a substitution.  
-* Related rates problems requiring a substitution.  
-* Related rates where you're finding a rate.  
-* Related rates where you're finding a value.  
+
+* Related rates problems not requiring a substitution
+* Related rates problems requiring a substitution
+* Related rates where you're finding a rate
+* Related rates where you're finding a value 
+
 With at least three different versions of each type, 
 even if it just meant having different numbers in the problem.)  
 
