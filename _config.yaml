@@ -1,2 +1,4 @@
 name: Christina Koch
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+blog: Enthusiasms

@@ -6,26 +6,15 @@
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 		</head>
 		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/cv">Experience</a></li>
-	        		<li><a href="/cv">Portfolio</a></li>
-	        		<li><a href="/blog">Blog</a></li>
-	    		</ul>
-			</nav>
+			{% include nav.html %}
+
 			<div class="container">
-			
+						
 			{{ content }}
 			
 			</div><!-- /.container -->
 			<footer>
-	    		<ul>
-	    	    <li><a href="http://wid.wisc.edu/people/christina-koch">Wisc</a></li>
-	        	<li><a href="https://github.com/ChristinaLK">Github</a></li>
-	        	<li><a href="https://twitter.com/ChristinaLK">Twitter</a></li>
-				</ul>
+	    	{% include contact.html %}
 			</footer>
 		</body>
 	</html>
