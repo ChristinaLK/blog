@@ -63,3 +63,14 @@ name {
     padding: 0px;
     font-weight: bold;
 }
+
+portfolio table {
+	width: 100%;
+}
+
+portfolio td {
+	width: 50%;
+	text-align: top;
+	padding: 20;
+	
+}
