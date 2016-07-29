@@ -1,4 +1,3 @@
-Status: draft
 Title: Identity, Disney Style
 Date: 2016-06-26 7:00
 Category: media
@@ -44,7 +43,7 @@ questions go hand in hand with the crime that the two are solving - the
 story resolves when they've both solved the crime and answered 
 those questions about who they are.  
 * Frozen: To the people in her world, Elsa is not the person she 
-seems, due to hiding her ability.  The conflict of the story is literally 
+seems.  The conflict of the story is literally 
 an identity conflict - Elsa runs away because her magical 
 ability and her role as the crown princess are at odds.  That struggle 
 is only resolved when Elsa is able 
@@ -61,8 +60,8 @@ Vanellope's rightful identity is restored
 and Ralph can accept his role as "bad guy" because there's more to his
 life than that role.  (Side note: pretty interesting that Vanellope and Ralph both 
 need each other to achieve that resolution - Vanellope needs a champion and 
-Ralph needs someone who loves him.)  
-* And if you want to go all the way 
+Ralph needs someone who loves him.)
+* And if you want to go further 
 back, [Tangled](http://www.imdb.com/title/tt0398286) was the first 
 effort by this particular Disney animation cohort, and you see the same 
 theme of main characters pursuing 
@@ -83,11 +82,11 @@ growth is specifically around **who they are** and their relationship
 to others instead of fixing some internal flaw or changing their 
 mind about something.  
 
-I have mostly appreciated the clinically/socially 
+As a post-script: I have appreciated the clinically/socially 
 accurate depictions of identity in these movies (the problems 
 of repression in Frozen, the **excellent** language around bias 
 and stereotype in Zootopia, the co-opting of 12 step program ideas 
-in Wreck-It Ralph, and, a to include a Pixar movie of the same 
+in Wreck-It Ralph, and, to include a Pixar movie of the same 
 general vintage, [Inside Out](http://www.imdb.com/title/tt2096673) and its 
 literal depiction of an emotional journey).  If this 
 is part of a Disney plot to educate kids, and/or their parents, 
@@ -96,6 +95,6 @@ I'd give it a thumbs up so far!
 
 <a name="let-it-go">[1]</a> My grumpy "get off my lawn" self has always lamented that 
 "Let It Go" exploded into such popularity, not for any musical 
-reasons, but simply because it represents only a piece of the 
+reasons, but simply because the song represents only a piece of the 
 movie's message and taken on its own, is a unhelpful way to 
 think about forming your identity.  

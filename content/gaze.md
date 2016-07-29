@@ -25,7 +25,7 @@ athletes about sharing a locker room with a gay teammate.  Zeigler writes:
 > or "hit on" by gay men, being on the receiving end of that simple act
 > somehow undermines their own heterosexuality and masculinity.  
 
-I read that paragraph and **immediately* thought: "Well, of course 
+I read that paragraph and **immediately** thought: "Well, of course 
 it makes straight men uncomfortable.  They've never been perceived 
 as a sexual object by someone who has equal 'power' to them.  It's 
 new to them, but women know all about this."  
@@ -50,7 +50,7 @@ describing a recent vacation in Trinidad and Tobago and the utter freedom
 she felt there, away from the white *gaze*.  
 
 *Gaze*.  That's the word I had been looking for - straight men are not 
-used to being on the receiving end of a sexually objectifying gaze, where 
+used to being on the receiving end of a sexually objectifying *gaze*, where 
 gaze is defined as looking not just to look, but with 
 [power or expectation](https://twitter.com/MsPackyetti/status/752482258477461506).  Whereas 
 women experience that...every day.  
