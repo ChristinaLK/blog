@@ -1,26 +1,15 @@
 ---
 layout: main
-title: computing. education. mathematics.
+title: Enthusiasms
+header_img: /img/me_tree_banner.jpg
 ---
-<h1 style="text-align:right; font-style:italic;">{{ page.title }}</h1>
-<img src="/img/wiki.JPG" width="100%">
 
-<div class="blurb">
-
-Use linkedin blurb
-
-I like to term myself a "21st-century Renaissance woman" -- thinker, educator, reader, 
-writer, musician, dancer, programmer, problem-solver, athlete, mathematician, 
-and general enthusiast.  
-
-<h2>Recent Blog Posts</h2>
+<h2>Recent Posts</h2>
 
 <ul class="posts">
 
-  {% for post in site.posts %}
+  {% for post in site.posts limit:6 %}
 	<li><span>{{ post.date | date_to_string }}</span> » 
 	<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-</div><!-- /.blurb -->
