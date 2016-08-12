@@ -8,18 +8,67 @@ a {
     color: #999;
 }
 a:hover {
-    text-decoration: underline;
+    text-decoration: none;
+    color: #000;
+}
+
+a.title {
+    text-decoration: none;
+    color: #000;
+}
+a.title:hover {
+    color: #999;
+}
+
+a.meta {
+    text-decoration: none;
+    color: #999;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 0.9em;
+
+}
+a.meta:hover {
+    color: #000;
+}
+p.small {
+    line-height: 0;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	color: #5b5b5b;
+	font-weight: bold;
+}
+p.small2 {
+    line-height: 0;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	color: #5b5b5b;
+    font-size: 0.9em;
+    font-weight:bold;
+}
+p.blogtitle {
+    line-height: 0;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 2.2em;
+    font-weight:bold;
+    color: #000;
 }
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+   line-height: 0;
+}
+h2 {
+	font-size: 2em;
+	font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+h3 {
+	font-size: 1.2em;
+	font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	color: #999;
 }
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 1.3em;
+    line-height: 1.1em;
     color: #333;
 }
-
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
@@ -73,4 +122,10 @@ portfolio td {
 	text-align: top;
 	padding: 20;
 	
+}
+
+td.blogfoot{ 
+    width: 25%;
+    height: 100%;
+    vertical-align: top;
 }
