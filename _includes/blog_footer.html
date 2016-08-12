@@ -1,0 +1,45 @@
+<table width="100%"><tr>
+
+<td class="blogfoot" style="width: 45%;">
+<h3><a href="/archive/">Archive</a></h3>
+
+<h3><a href="/">Recent Posts</a></h3>
+<ul>
+
+  {% for post in site.posts limit:4 %}
+	<li><span>{{ post.date | date_to_string }}</span> - 
+	<a class="meta" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+</td>
+
+<td class="blogfoot"> 
+<h3><a href="/categories">Categories</a></h3>
+<ul>
+
+  {% for category in site.categories %}
+	<li><span><a class="meta" href="/{{ category | first }}">
+	{{ category | first }}</a></span> 
+	</li>
+  {% endfor %}
+</ul>
+
+</td>
+
+<td class="blogfoot">
+<h3><a href="/tags">Popular Tags</a></h3>
+
+{% assign tags = site.tags | sort %}
+{% for tag in tags %}
+ <span class="site-tag">
+    <a href="/{{ tag | first | slugify }}/"
+        style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
+            {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
+    </a>
+</span>
+{% endfor %}
+
+</td>
+
+
+<tr></table>
