@@ -1,11 +1,25 @@
 ---
 layout: main
 ---
-<h1>{{ site.blog }}</h1>
-
-<h1>{{ page.title }}</h1>
-<p class="meta">{{ page.date | date_to_string }}</p>
+<p class="blogtitle">{{ page.title }}</p>
+<p class="small2">{{ page.date | date_to_string }}</p>
 
 <div class="post">
   {{ content }}
 </div>
+
+<p>
+  {% for category in page.categories %}
+	<span><a class="meta" href="/{{ category }}">
+	{{ category }}</a></span> » 
+  {% endfor %}
+
+{% for tag in page.tags %}
+	<span><a class="meta" href="/{{ tag }}">
+	{{ tag }}</a>,</span>  
+  {% endfor %}
+  </p>
+  
+<hr>
+
+{% include blog_footer.html %}
