@@ -1,0 +1,13 @@
+---
+layout: navigation
+title: Tags
+---
+
+<ul class="posts">
+
+  {% for tag in site.tags %}
+	<li><span><a href="/{{ tag | first }}">
+	{{ tag | first }}</a></span> 
+	</li>
+  {% endfor %}
+</ul>
