@@ -1,4 +1,5 @@
-name: Christina Koch
+name: Enthusiasms
+tagline: Christina Koch's blog
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
-blog: Enthusiasms
+#permalink: /blog/:title
+root: https://christinalk.github.io/blog
