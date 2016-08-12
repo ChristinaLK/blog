@@ -1,3 +1,5 @@
 # Christina Koch
 
-Personal website, at [christinalk.github.io](https://christinalk.github.io).
+My blog: [christinalk.github.io/blog](https://christinalk.github.io/blog).
+
+See my website [here](https://christinalk.github.io).
