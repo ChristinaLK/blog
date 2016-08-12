@@ -6,7 +6,7 @@ title: Tags
 <ul class="posts">
 
   {% for tag in site.tags %}
-	<li><span><a href="/{{ tag | first }}">
+	<li><span><a href="{{ site.root }}/{{ tag | first }}">
 	{{ tag | first }}</a></span> 
 	</li>
   {% endfor %}

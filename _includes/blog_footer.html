@@ -1,9 +1,9 @@
 <table width="100%"><tr>
 
 <td class="blogfoot" style="width: 45%;">
-<h3><a href="/archive/">Archive</a></h3>
+<h3><a href="{{site.root}}/archive/">Archive</a></h3>
 
-<h3><a href="/">Recent Posts</a></h3>
+<h3><a href="{{site.root}}/">Recent Posts</a></h3>
 <ul>
 
   {% for post in site.posts limit:4 %}
@@ -14,11 +14,11 @@
 </td>
 
 <td class="blogfoot"> 
-<h3><a href="/categories">Categories</a></h3>
+<h3><a href="{{site.root}}/categories">Categories</a></h3>
 <ul>
 
   {% for category in site.categories %}
-	<li><span><a class="meta" href="/{{ category | first }}">
+	<li><span><a class="meta" href="{{site.root}}/{{ category | first }}">
 	{{ category | first }}</a></span> 
 	</li>
   {% endfor %}
@@ -27,12 +27,12 @@
 </td>
 
 <td class="blogfoot">
-<h3><a href="/tags">Popular Tags</a></h3>
+<h3><a href="{{site.root}}/tags">Popular Tags</a></h3>
 
 {% assign tags = site.tags | sort %}
 {% for tag in tags %}
  <span class="site-tag">
-    <a href="/{{ tag | first | slugify }}/"
+    <a href="{{site.root}}/{{ tag | first | slugify }}/"
         style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
             {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
     </a>
