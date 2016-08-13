@@ -9,6 +9,7 @@
   {% for post in site.posts limit:4 %}
 	<li><span>{{ post.date | date_to_string }}</span> - 
 	<a class="meta" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    {{post.url}} {{post.permalink}}
   {% endfor %}
 </ul>
 </td>
