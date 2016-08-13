@@ -4,6 +4,7 @@ Sources:
 * [Jonathon McGlone, Guide to Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
 * [Shigeya, Jekyll plugin for category archive](https://github.com/shigeya/jekyll-category-archive-plugin)
 * [Kanishk Kunal, Generating Tag Cloud on Jekyll Blog without plugin](https://superdevresources.com/tag-cloud-jekyll/)
+* [Favicon](http://www.favicon-generator.org/editor/2013-07-07/8318ab174e78f3d2ea82043507311558.ico)
 
 Cobbled together with love and Google by [Christina Koch](https://christinalk.github.io). 
 
