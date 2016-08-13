@@ -11,5 +11,6 @@ header_img: img/me_tree.jpg
   {% for post in site.posts limit:6 %}
 	<li><span>{{ post.date | date_to_string }}</span> » 
 	<a href="{{site.origin}}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+  {{post.url}}
   {% endfor %}
 </ul>
