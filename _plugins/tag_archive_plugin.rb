@@ -35,7 +35,7 @@ module Jekyll
 
     def posts_group_by_tag(site)
       tag_map = {}
-      site.posts.each {|p| p.tags.each {|c| (tag_map[c] ||= []) << p } }
+      site.posts.docs.each {|p| p['tags'].each {|c| (tag_map[c] ||= []) << p } }
       tag_map
     end
   end
