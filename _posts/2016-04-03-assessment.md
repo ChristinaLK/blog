@@ -2,9 +2,9 @@
 layout: post
 Title: Assessing Life
 Date: 2016-04-03 17:00
-Categories: 
+categories: 
    - reflections
-Tags: 
+tags: 
    - personal
    - teaching
    - perfectionism

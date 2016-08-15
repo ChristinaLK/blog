@@ -2,10 +2,10 @@
 layout: post
 Title: Blind Spots
 Date: 2016-04-11 23:00
-Categories: 
+categories: 
    - response
    - reflections
-Tags: 
+tags: 
    - teaching
    - culture
    - values
