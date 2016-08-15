@@ -1,6 +1,6 @@
 <table width="100%"><tr>
 
-<td class="blogfoot" style="width: 45%;">
+<td class="blogfoot" style="width: 32%;">
 
 <h3><a href="{{site.root}}/">Recent Posts</a></h3>
 <ul>
@@ -10,6 +10,12 @@
 	<a class="meta" href="{{site.root}}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+
+<h3><a href="{{site.root}}/archive/">Archive</a></h3>
+
+</td>
+
+<td class="blogfoot" style="width: 20%;">
 
 <h3><a href="{{site.root}}/categories">Categories</a></h3>
 <ul>
@@ -21,25 +27,24 @@
   {% endfor %}
   
 </ul>
-
-<h3><a href="{{site.root}}/archive/">Archive</a></h3>
-
 </td>
 
-<td class="blogfoot"  style="width: 50%;">
+<td class="blogfoot"  style="width: 48%;">
 <h3><a href="{{site.root}}/tags">Popular Tags</a></h3>
-
 {% assign tags = site.tags | sort %}
 {% for tag in tags %}
- <span class="site-tag">
+   {% assign temp = tag | last | size %}
+   {% if temp > 1 %}
+
+    <span class="site-tag">
     <a href="{{site.root}}/tags#{{ tag | first }}"
         style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
             {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
-    </a>
-</span>
+    </a></span>
+    {% endif %}
 {% endfor %}
 
 </td>
 
 
-<tr></table>
+</tr></table>
