@@ -3,11 +3,36 @@ layout: navigation
 title: Categories
 ---
 
-<ul class="posts">
+{% assign catnames = (site.categories | sort:0) %}
 
-  {% for category in site.categories %}
-	<li><span><a href="{{site.root}}/{{ category | first }}">
-	{{ category | first }}</a></span> 
-	</li>
+
+<table width="100%">
+{% for category in catnames %}
+  {% cycle '<tr width="33%">', '', '', '' %}
+    <td><h3><a class="meta" href="#{{ category | first | slugify}}">{{ category | first}}</a></h3></td>
+  {% cycle '', '', '', '</tr>' %}
+{% endfor %}
+{% assign width = catnames.size|modulo: 3 %}
+{% unless width == 3 %}
+  {% for i in (width..3) %}
+    <td>&nbsp;</td>
   {% endfor %}
-</ul>
+  </tr>
+{% endunless %}
+</table>
+
+<hr/>
+
+{% for category in catnames %}
+  <p class="blogtitle"><a name="{{ category | first | slugify}}">{{ category | first}}</a></p>
+<ul class="posts">  
+{% for posts in category %}
+    {% for p in posts %}
+      {% if p.date and p.title %}
+	<li><span>{{ p.date | date_to_string }}</span> » 
+	<a href="{{site.root}}{{ p.url }}" title="{{ p.title }}">{{ p.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+  </ul>
+{% endfor %}

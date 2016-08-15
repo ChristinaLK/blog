@@ -3,11 +3,37 @@ layout: navigation
 title: Tags
 ---
 
-<ul class="posts">
 
-  {% for tag in site.tags %}
-	<li><span><a href="{{ site.root }}/{{ tag | first }}">
-	{{ tag | first }}</a></span> 
-	</li>
+{% assign tagnames = (site.tags | sort:0) %}
+
+
+<table width="100%">
+{% for tag in tagnames %}
+  {% cycle '<tr width="25%">', '', '', '' %}
+    <td><h3><a class="meta" href="#{{ tag | first | slugify}}">{{ tag | first}}</a></h3></td>
+  {% cycle '', '', '', '</tr>' %}
+{% endfor %}
+{% assign width = tagnames.size|modulo: 4 %}
+{% unless width == 4 %}
+  {% for i in (width..3) %}
+    <td>&nbsp;</td>
   {% endfor %}
-</ul>
+  </tr>
+{% endunless %}
+</table>
+
+<hr/>
+
+{% for tag in tagnames %}
+  <p class="blogtitle"><a name="{{ tag | first | slugify}}">{{ tag | first}}</a></p>
+<ul class="posts">  
+{% for posts in tag %}
+    {% for p in posts %}
+      {% if p.date and p.title %}
+	<li><span>{{ p.date | date_to_string }}</span> » 
+	<a href="{{site.root}}{{ p.url }}" title="{{ p.title }}">{{ p.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+  </ul>
+{% endfor %}
