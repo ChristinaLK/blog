@@ -2,9 +2,9 @@
 layout: post
 Title: Your computer as a kitchen
 Date: 2015-07-26 18:00
-Category: 
+categories: 
    - reflections
-Tags: 
+tags: 
    - computing
    - software
    - teaching

@@ -2,8 +2,9 @@
 layout: post
 Title: Big numbers
 Date: 2014-11-20 21:00
-Category: reflections
-Tags: 
+categories: 
+   - reflections
+tags: 
    - math
    - computing
    - culture

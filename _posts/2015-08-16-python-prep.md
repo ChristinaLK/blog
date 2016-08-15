@@ -2,8 +2,9 @@
 layout: post
 Title: Preparing to teach Python
 Date: 2015-08-16 15:00
-Category: how-to
-Tags: 
+categories: 
+   - how-to
+tags: 
    - python
    - teaching
    - lessons

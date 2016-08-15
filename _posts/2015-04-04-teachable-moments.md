@@ -2,9 +2,9 @@
 layout: post
 Title: Teachable moments
 Date: 2015-04-04 14:00
-Categories: 
+categories: 
    - stories
-Tags: g
+tags: g
    - git 
    - version control
    - collaboration

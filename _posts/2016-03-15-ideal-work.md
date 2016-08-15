@@ -2,9 +2,9 @@
 layout: post
 Title: When Everything Works
 Date: 2016-03-15 14:30
-Category: 
+category: 
    - stories
-Tags: 
+tags: 
    - true story
    - computing
    - work

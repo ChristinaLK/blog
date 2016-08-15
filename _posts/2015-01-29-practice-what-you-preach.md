@@ -2,9 +2,9 @@
 layout: post
 Title: Practice what you preach
 Date: 2015-01-29 7:00
-Categories: 
+categories: 
    - stories
-Tags: 
+tags: 
    - r
    - programming
    - motivation

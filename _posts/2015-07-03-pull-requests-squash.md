@@ -2,9 +2,9 @@
 layout: post
 Title: Care and keeping of pull requests, part v
 Date: 2015-07-03 12:00
-Categories: 
+categories: 
    - how-to
-Tags: 
+tags: 
    - git
    - collaboration
    - care and keeping of prs

@@ -2,9 +2,9 @@
 layout: post
 Title: Back in the U.S.S...A.  
 Date: 2014-11-20 15:00
-Categories: 
+categories: 
    - stories
-Tags: 
+tags: 
    - America
    - Canada
    - culture

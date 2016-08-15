@@ -2,9 +2,9 @@
 layout: post
 Title: Two principles
 Date: 2015-05-14 22:00
-Category: 
+categories: 
    - reflections
-Tags: 
+tags: 
    - computing
    - work
    - RCF

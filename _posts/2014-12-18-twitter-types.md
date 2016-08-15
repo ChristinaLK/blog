@@ -2,9 +2,9 @@
 layout: post
 Title: Twitter types
 Date: 2014-12-18 18:00
-Categories: 
+categories: 
    - reflections
-Tags: 
+tags: 
    - twitter
    - culture
 Slug: twitter-types

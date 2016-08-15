@@ -2,9 +2,9 @@
 layout: post
 Title: From generation to generation
 Date: 2015-03-12 19:00
-Category: 
+categories: 
    - stories
-Tags: 
+tags: 
    - computing
    - family
    - work

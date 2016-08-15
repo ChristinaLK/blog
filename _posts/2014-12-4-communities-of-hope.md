@@ -2,9 +2,9 @@
 layout: post
 Title: Building communities of hope
 Date: 2014-12-4 20:00
-Categories: 
+categories: 
     - reflections
-Tags: 
+tags: 
    - community
    - hope
    - collaboration

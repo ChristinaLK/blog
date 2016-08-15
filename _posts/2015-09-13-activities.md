@@ -2,9 +2,9 @@
 layout: post
 Title: Not Quite Lesson Material
 Date: 2015-09-013 18:00
-Categories: 
+categories: 
    - how-to
-Tags: 
+tags: 
    - programming
    - computing
    - Software Carpentry

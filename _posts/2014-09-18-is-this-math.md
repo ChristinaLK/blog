@@ -2,9 +2,9 @@
 layout: post
 Title: Is this math?  
 Date: 2014-09-18 15:00
-Categories: 
+categories: 
    - stories
-Tags: 
+tags: 
    - ACT
    - language
    - math

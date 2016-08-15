@@ -2,9 +2,9 @@
 layout: post
 Title: Is this programming?  
 Date: 2014-10-09 13:00
-Categories: 
+categories: 
    - response
-Tags: 
+tags: 
    - programming
    - math
    - language
