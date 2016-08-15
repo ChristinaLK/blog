@@ -8,13 +8,13 @@ title: Categories
 
 <table width="100%">
 {% for category in catnames %}
-  {% cycle '<tr width="33%">', '', '', '' %}
-    <td><h3><a class="meta" href="#{{ category | first | slugify}}">{{ category | first}}</a></h3></td>
-  {% cycle '', '', '', '</tr>' %}
+  {% cycle '<tr>', '', '', '', '' %}
+    <td width="20%"><h3><a class="meta" href="#{{ category | first | slugify}}">{{ category | first}}</a></h3></td>
+  {% cycle '', '', '', '', '</tr>' %}
 {% endfor %}
-{% assign width = catnames.size|modulo: 3 %}
-{% unless width == 3 %}
-  {% for i in (width..3) %}
+{% assign width = catnames.size|modulo: 5 %}
+{% unless width == 5 %}
+  {% for i in (width..4) %}
     <td>&nbsp;</td>
   {% endfor %}
   </tr>

@@ -6,7 +6,6 @@ categories:
    - stories
 tags:
    - git 
-   - version control
    - collaboration
    - true story
    - empowerment

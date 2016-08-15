@@ -9,8 +9,8 @@ title: Tags
 
 <table width="100%">
 {% for tag in tagnames %}
-  {% cycle '<tr width="25%">', '', '', '' %}
-    <td><h3><a class="meta" href="#{{ tag | first | slugify}}">{{ tag | first}}</a></h3></td>
+  {% cycle '<tr style="line-height: 0;">', '', '', '' %}
+    <td width="25%"><h3><a href="#{{ tag | first | slugify}}">{{ tag | first}}</a></h3></td>
   {% cycle '', '', '', '</tr>' %}
 {% endfor %}
 {% assign width = tagnames.size|modulo: 4 %}
