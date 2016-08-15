@@ -1,14 +1,14 @@
 ---
 layout: post
-Title: Twitter types
-Date: 2014-12-18 18:00
+title: Twitter types
+date: 2014-12-18 18:00
 categories: 
    - reflections
 tags: 
    - twitter
    - culture
-Slug: twitter-types
-Authors: Christina Koch
+slug: twitter-types
+authors: Christina Koch
 ---
 
 My co-worker and I had a fascinating discussion with some digital humanities folks this week.  We went to the last 2014 meeting of the Digital Humanities Research Network at UW Madison, and just sat around talking research pipelines and tools, and, because the research in question was about Twitter, digressed to tweeting habits and the relative publicity of information and conversation on Twitter.  

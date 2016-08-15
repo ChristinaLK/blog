@@ -1,7 +1,7 @@
 ---
 layout: post
-Title: Git Models
-Date: 2015-11-24 23:00
+title: Git Models
+date: 2015-11-24 23:00
 categories: 
    - reflections
 tags: 
@@ -10,8 +10,8 @@ tags:
    - git
    - shell
    - teaching
-Slug: git-models
-Authors: Christina Koch
+slug: git-models
+authors: Christina Koch
 ---
 
 There are several motivations to this post: 

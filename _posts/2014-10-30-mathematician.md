@@ -1,15 +1,15 @@
 ---
 layout: post
-Title: Are you a mathematician?
-Date: 2014-10-30 12:00
+title: Are you a mathematician?
+date: 2014-10-30 12:00
 categories: 
    - reflections
 tags: 
    - math
    - mathematicians
    - work
-Slug: mathematicians
-Authors: Christina Koch
+slug: mathematicians
+authors: Christina Koch
 ---
 
 While having a celebratory dinner with some math department friends on Saturday night, someone asked the following question: 

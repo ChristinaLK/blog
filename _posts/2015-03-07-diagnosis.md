@@ -1,7 +1,7 @@
 ---
 layout: post
-Title: Diagnosis
-Date: 2015-03-07 11:00
+title: Diagnosis
+date: 2015-03-07 11:00
 categories: 
    - stories
 tags: 
@@ -9,8 +9,8 @@ tags:
    - work
    - RCF
    - problem-solving
-Slug: diagnosis
-Authors: Christina Koch
+slug: diagnosis
+authors: Christina Koch
 ---
 
 I finally went to see an optometrist this week. Catching up to normal life tasks after you move takes awhile.

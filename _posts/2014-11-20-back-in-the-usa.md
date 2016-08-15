@@ -1,15 +1,15 @@
 ---
 layout: post
-Title: Back in the U.S.S...A.  
-Date: 2014-11-20 15:00
+title: Back in the U.S.S...A.  
+date: 2014-11-20 15:00
 categories: 
    - stories
 tags: 
    - America
    - Canada
    - culture
-Slug: back-in-the-usa
-Authors: Christina Koch
+slug: back-in-the-usa
+authors: Christina Koch
 ---
 
 Last week I returned to the motherland after my 4 year sojurn in Canada.  Specifically, I have 

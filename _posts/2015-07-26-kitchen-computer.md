@@ -1,15 +1,15 @@
 ---
 layout: post
-Title: Your computer as a kitchen
-Date: 2015-07-26 18:00
+title: Your computer as a kitchen
+date: 2015-07-26 18:00
 categories: 
    - reflections
 tags: 
    - computing
    - software
    - teaching
-Slug: kitchen-computer
-Authors: Christina Koch
+slug: kitchen-computer
+authors: Christina Koch
 ---
 
 In three days I will be presenting on software portability at the 

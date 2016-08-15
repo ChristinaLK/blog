@@ -1,7 +1,7 @@
 ---
 layout: post
-Title: When Everything Works
-Date: 2016-03-15 14:30
+title: When Everything Works
+date: 2016-03-15 14:30
 category: 
    - stories
 tags: 
@@ -10,8 +10,8 @@ tags:
    - work
    - SCF 
    - problem-solving
-Slug: ideal-work
-Authors: Christina Koch
+slug: ideal-work
+authors: Christina Koch
 ---
 
 Storytime!  Last week, I experienced a great moment at work, 

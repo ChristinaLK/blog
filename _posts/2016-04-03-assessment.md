@@ -1,7 +1,7 @@
 ---
 layout: post
-Title: Assessing Life
-Date: 2016-04-03 17:00
+title: Assessing Life
+date: 2016-04-03 17:00
 categories: 
    - reflections
 tags: 
@@ -9,8 +9,8 @@ tags:
    - teaching
    - perfectionism
    - mental health
-Slug: assessment
-Authors: Christina Koch
+slug: assessment
+authors: Christina Koch
 ---
 
 In the Software/Data Carpentry [Instructor Training](http://swcarpentry.github.io/instructor-training/), 

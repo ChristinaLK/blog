@@ -1,15 +1,15 @@
 ---
 layout: post
-Title: Care and keeping of pull requests, part v
-Date: 2015-07-03 12:00
+title: Care and keeping of pull requests, part v
+date: 2015-07-03 12:00
 categories: 
    - how-to
 tags: 
    - git
    - collaboration
    - care and keeping of prs
-Slug: pull-requests-squash
-Authors: Christina Koch
+slug: pull-requests-squash
+authors: Christina Koch
 ---
 
 See [first post disclaimer](http://christinalk.github.io/blog/pull-requests.html)  

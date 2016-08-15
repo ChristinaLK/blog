@@ -1,17 +1,17 @@
 ---
 layout: post
-Title: Teachable moments
-Date: 2015-04-04 14:00
+title: Teachable moments
+date: 2015-04-04 14:00
 categories: 
    - stories
-tags: g
+tags:
    - git 
    - version control
    - collaboration
    - true story
    - empowerment
-Slug: teachable-moments
-Authors: Christina Koch
+slug: teachable-moments
+authors: Christina Koch
 ---
 
 Welcome to the "teachable moments" hour, also known as "highlights of Christina's twitter this week" or "I git it!"  

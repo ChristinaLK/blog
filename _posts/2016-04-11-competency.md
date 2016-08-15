@@ -1,7 +1,7 @@
 ---
 layout: post
-Title: Blind Spots
-Date: 2016-04-11 23:00
+title: Blind Spots
+date: 2016-04-11 23:00
 categories: 
    - response
    - reflections
@@ -9,8 +9,8 @@ tags:
    - teaching
    - culture
    - values
-Slug: competency
-Authors: Christina Koch
+slug: competency
+authors: Christina Koch
 ---
 
 I attended UW Madison's one-day [IT Leadership Conference](https://itlc.it.wisc.edu/) 

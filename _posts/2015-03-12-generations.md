@@ -1,7 +1,7 @@
 ---
 layout: post
-Title: From generation to generation
-Date: 2015-03-12 19:00
+title: From generation to generation
+date: 2015-03-12 19:00
 categories: 
    - stories
 tags: 
@@ -11,8 +11,8 @@ tags:
    - true story
    - RCF
    - personal
-Slug: generations
-Authors: Christina Koch
+slug: generations
+authors: Christina Koch
 ---
 
 I took a day off work on March 9th to drive down to Chicago and see my grandparents, who were in town for a family baptism.  As is typical when members of my extended family get together, there was a lot of sitting around and updating everyone about the present, but also telling stories about the past.  

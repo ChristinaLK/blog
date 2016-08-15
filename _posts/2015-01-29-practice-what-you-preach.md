@@ -1,7 +1,7 @@
 ---
 layout: post
-Title: Practice what you preach
-Date: 2015-01-29 7:00
+title: Practice what you preach
+date: 2015-01-29 7:00
 categories: 
    - stories
 tags: 
@@ -12,8 +12,8 @@ tags:
    - true story
    - work
    - RCF
-Slug: practice-what-you-preach
-Authors: Christina Koch
+slug: practice-what-you-preach
+authors: Christina Koch
 ---
 
 I had a Software Carpentry "moment" at work this week.  I had to sort through an excel spreadsheet of accumulated computing hours ([like this](http://monitor.chtc.wisc.edu/uw_condor_usage/usage365.shtml)), finding all users 

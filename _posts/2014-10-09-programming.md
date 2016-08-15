@@ -1,7 +1,7 @@
 ---
 layout: post
-Title: Is this programming?  
-Date: 2014-10-09 13:00
+title: Is this programming?  
+date: 2014-10-09 13:00
 categories: 
    - response
 tags: 
@@ -9,8 +9,8 @@ tags:
    - math
    - language
    - empowerment
-Slug: is-this-programming
-Authors: Christina Koch
+slug: is-this-programming
+authors: Christina Koch
 ---
 
 

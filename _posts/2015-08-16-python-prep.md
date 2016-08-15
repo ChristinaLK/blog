@@ -1,7 +1,7 @@
 ---
 layout: post
-Title: Preparing to teach Python
-Date: 2015-08-16 15:00
+title: Preparing to teach Python
+date: 2015-08-16 15:00
 categories: 
    - how-to
 tags: 
@@ -9,8 +9,8 @@ tags:
    - teaching
    - lessons
    - Software Carpentry
-Slug: python-prep
-Authors: Christina Koch
+slug: python-prep
+authors: Christina Koch
 ---
 s
 **Context:** I read a [blog post](http://blog.byronjsmith.com/swc-python-lesson.html) by [Byron Smith](https://twitter.com/ByronJSmith), [tweeted](https://twitter.com/rgaiacs/status/632519587679084544) by [Raniere Silva](https://twitter.com/rgaiacs) about his first time teaching the Software Carpentry novice Python lesson.  He makes some great observations about the challenges 

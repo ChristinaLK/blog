@@ -1,15 +1,15 @@
 ---
 layout: post
-Title: Care and keeping of pull requests, part ii
-Date: 2015-06-30 12:00
+title: Care and keeping of pull requests, part ii
+date: 2015-06-30 12:00
 categories:
    - how-to
 tags: 
    - git
    - collaboration
    - care and keeping of prs
-Slug: pull-requests-fetch
-Authors: Christina Koch
+slug: pull-requests-fetch
+authors: Christina Koch
 ---
 
 See [first post disclaimer](http://christinalk.github.io/blog/pull-requests.html)

@@ -1,7 +1,7 @@
 ---
 layout: post
-Title: Big numbers
-Date: 2014-11-20 21:00
+title: Big numbers
+date: 2014-11-20 21:00
 categories: 
    - reflections
 tags: 
@@ -10,8 +10,8 @@ tags:
    - culture
    - work
    - RCF
-Slug: big-numbers
-Authors: Christina Koch
+slug: big-numbers
+authors: Christina Koch
 ---
 
 In an addendum to my earlier post from today, one more thought about transitions, not national (Canada to USA)

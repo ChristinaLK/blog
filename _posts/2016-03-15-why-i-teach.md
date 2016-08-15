@@ -1,7 +1,7 @@
 ---
 layout: post
-Title: Why I teach
-Date: 2016-03-15 10:00
+title: Why I teach
+date: 2016-03-15 10:00
 categories: 
    - reflections
    - stories
@@ -10,8 +10,8 @@ tags:
    - true story
    - empowerment
    - personal
-Slug: why-i-teach
-Authors: Christina Koch
+slug: why-i-teach
+authors: Christina Koch
 ---
 
 I wrote this up for the Software Carpentry instructor training guide, 

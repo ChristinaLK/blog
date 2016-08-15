@@ -1,7 +1,7 @@
 ---
 layout: post
-Title: Is this math?  
-Date: 2014-09-18 15:00
+title: Is this math?  
+date: 2014-09-18 15:00
 categories: 
    - stories
 tags: 
@@ -10,8 +10,8 @@ tags:
    - math
    - tutoring
    - work
-Slug: is-this-math
-Authors: Christina Koch
+slug: is-this-math
+authors: Christina Koch
 ---
 
 Continuing reflections inspired by my rush of ACT tutoring last week...one of my students encountered the following problem in the math section of a practice test.  

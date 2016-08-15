@@ -1,7 +1,7 @@
 ---
 layout: post
-Title: Not Quite Lesson Material
-Date: 2015-09-013 18:00
+title: Not Quite Lesson Material
+date: 2015-09-013 18:00
 categories: 
    - how-to
 tags: 
@@ -12,8 +12,8 @@ tags:
    - lessons
    - git
    - shell
-Slug: activities
-Authors: Christina Koch
+slug: activities
+authors: Christina Koch
 ---
 
 Lesson plans are a funny thing.  The [Software Carpentry lessons](http://www.software-carpentry.org/lessons.html)

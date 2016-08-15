@@ -1,15 +1,15 @@
 ---
 layout: post
-Title: Care and keeping of pull requests, part iii
-Date: 2015-07-01 12:00
+title: Care and keeping of pull requests, part iii
+date: 2015-07-01 12:00
 categories: 
    - how-to
 tags: 
    - git
    - collaboration
    - care and keeping of prs
-Slug: pull-requests-merge
-Authors: Christina Koch
+slug: pull-requests-merge
+authors: Christina Koch
 ---
 
 See [first post disclaimer](http://christinalk.github.io/blog/pull-requests.html)

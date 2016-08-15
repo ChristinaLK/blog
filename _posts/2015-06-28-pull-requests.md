@@ -1,15 +1,15 @@
 ---
 layout: post
-Title: Care and keeping of pull requests
-Date: 2015-06-28 21:00
+title: Care and keeping of pull requests
+date: 2015-06-28 21:00
 categories: 
    - how-to
 tags: 
    - git
    - collaboration
    - care and keeping of prs
-Slug: pull-requests
-Authors: Christina Koch
+slug: pull-requests
+authors: Christina Koch
 ---
 
 ## What is this?
