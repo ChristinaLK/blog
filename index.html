@@ -8,7 +8,7 @@ header_img: img/me_tree.jpg
 
 <ul class="posts">
 
-  {% for post in site.posts limit:6 %}
+  {% for post in site.posts limit:5 %}
 	<li><span>{{ post.date | date_to_string }}</span> » 
 	<a href="{{site.root}}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
   {% endfor %}
