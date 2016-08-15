@@ -10,13 +10,13 @@ layout: main
 
 <p>
   {% for category in page.categories %}
-	<span><a class="meta" href="{{site.root}}/categories#{{ category | first }}">
-	{{ category | first}}</a></span> » 
+	<span><a class="meta" href="{{site.root}}/categories#{{ category }}">
+	{{ category }}</a></span> » 
   {% endfor %}
 
 {% for tag in page.tags %}
-	<span><a class="meta" href="{{site.root}}/tags#{{ tag | first }}">
-	{{ tag | first }}</a>,</span>  
+	<span><a class="meta" href="{{site.root}}/tags#{{ tag }}">
+	{{ tag }}</a>,</span>  
   {% endfor %}
   </p>
   
