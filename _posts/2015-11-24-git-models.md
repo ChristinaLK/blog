@@ -6,7 +6,7 @@ categories:
    - reflections
 tags: 
    - programming
-   - computing, 
+   - computing
    - git
    - shell
    - teaching
