@@ -1,4 +1,5 @@
 ---
+layout: post
 Title: Are you a mathematician?
 Date: 2014-10-30 12:00
 Categories: 

@@ -1,3 +1,5 @@
+---
+layout: post
 Title: Building communities of hope
 Date: 2014-12-4 20:00
 Categories: 
@@ -11,6 +13,7 @@ Tags:
    - Software Carpentry
 Slug: communities-of-hope
 Authors: Christina Koch
+---
 
 Before my "regularly scheduled" blog post, which will follow this one, have a longish 
 set of perhaps deeper musings.  

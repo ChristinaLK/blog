@@ -1,4 +1,5 @@
 ---
+layout: post
 Title: Big numbers
 Date: 2014-11-20 21:00
 Category: reflections

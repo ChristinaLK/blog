@@ -1,4 +1,5 @@
 ---
+layout: post
 Title: Git Models
 Date: 2015-11-24 23:00
 Categories: 

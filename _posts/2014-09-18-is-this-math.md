@@ -1,4 +1,5 @@
 ---
+layout: post
 Title: Is this math?  
 Date: 2014-09-18 15:00
 Categories: 

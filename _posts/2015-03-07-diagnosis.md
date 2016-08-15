@@ -1,4 +1,5 @@
 ---
+layout: post
 Title: Diagnosis
 Date: 2015-03-07 11:00
 Categories: 

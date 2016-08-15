@@ -1,4 +1,5 @@
 ---
+layout: post
 Title: Why I teach
 Date: 2016-03-15 10:00
 Categories: 
