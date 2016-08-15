@@ -17,7 +17,7 @@ I have now been at my "new" job at UW-Madison for almost 6 months!  ** claps ** 
 
 Those pieces of the job have been relatively easy; it's the more intangible practices and philosophies that have been hard to pin down and really embody in daily work.  Two principles have become clear to me over the past six months and are currently written above my desk as daily reminders: 
 
-![daily reminders](/images/lessons.JPG)
+![daily reminders]({{site.root}}//images/lessons.JPG)
 
 The second reminder may seem a bit paradoxical.  My job is to help people with their problems - shouldn't I be fixing things?  Well, yes and no.  I do want to help people fix their problems.  But it's very easy to walk down a road where I become so focused on fixing the problem, that my solution completely disregards the people involved, or what the best solution might be.  It's flipping a mental switch: instead of roadblocks to be blown away at will, user issues are road signs that can allow me to identify a system problem or redirect a confused researcher.  They are there to guide a larger journey.  
 

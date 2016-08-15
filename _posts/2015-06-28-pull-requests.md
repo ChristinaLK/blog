@@ -39,7 +39,7 @@ These posts assume that the reader already knows:
 - how to setup the "collaborative triangle" (as seen below) 
 via forking, cloning + remote add-ing.  
 
-![collaboration](images/collaboration-diagram.svg)
+![collaboration]({{site.root}}/images/collaboration-diagram.svg)
 
 ## Remote naming
 
