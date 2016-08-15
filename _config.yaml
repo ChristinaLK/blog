@@ -2,6 +2,6 @@ name: Enthusiasms
 tagline: Christina Koch's blog
 markdown: kramdown
 permalink: /:year/:month/:day/:title
-root: https://christinalk.github.io/blog-test
-baseurl: /blog-test
+root: https://christinalk.github.io/blog
+baseurl: /blog
 origin: https://christinalk.github.io
