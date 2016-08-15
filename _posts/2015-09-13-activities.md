@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Not Quite Lesson Material
-date: 2015-09-013 18:00
+date: 2015-09-13 18:00
 categories: 
    - how-to
 tags: 
