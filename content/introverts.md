@@ -1,4 +1,4 @@
-Title: Accommodations for Introverts
+Title: Accessibility for Introverts
 Date: 2016-07-28 23:00
 Category: personal
 Tags: introverts, inclusion, access, creativity
@@ -6,7 +6,7 @@ Slug: introverts
 Authors: Christina Koch
 
 My roommate and I are both introverts, and she has done
-a lot of research and work around accommodations and access for 
+a lot of research and work around access for 
 "disability" of all stripes.  A few weeks ago we were talking 
 about both these things and half-jokingly came up with some 
 ideas for making life less stressful for introverts or people 
