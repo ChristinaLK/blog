@@ -8,6 +8,7 @@ tags:
    - git
    - collaboration
    - care and keeping of prs
+   - math
 slug: pull-requests-squash
 authors: Christina Koch
 ---
@@ -108,7 +109,7 @@ squash sss Zing!
 squash zzz Zap
 ~~~
 
-Note that the commits are liste from oldest to newest, which is 
+Note that the commits are listed from oldest to newest, which is 
 opposite of their order in `git log`.  
 
 Save 
