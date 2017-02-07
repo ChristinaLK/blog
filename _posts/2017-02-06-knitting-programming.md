@@ -98,7 +98,7 @@ then a repeated part of the pattern (the loop), then an ending part of the patte
 In chart, written out + programming, this would look like (from a shawl I'm currently
 knitting): 
 
-<table>
+<table padding=10>
 <tr>
 <th>Chart</th>
 <th>Written</th>
