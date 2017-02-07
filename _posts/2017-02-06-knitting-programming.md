@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Computer Science of Knitting
-date: 2016-09-21 23:00
+date: 2017-02-06 21:00
 categories: 
    - reflections
 tags: 
