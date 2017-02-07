@@ -10,6 +10,7 @@ tags:
    - math
 slug: knitting-programming
 authors: Christina Koch
+header_img: /img/knitting.jpg
 ---
 
 My college friend Katie, an avid knitter, once wisely foretold that I would 
