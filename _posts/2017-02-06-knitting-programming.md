@@ -24,7 +24,7 @@ and computer science.
 
 ## Binary. 
 
-Knitted fabric is binary.  Just like the 0s and 1s of computer language, 
+Knitted fabric is binary.  Just like the 0s and 1s of computerese, 
 there are two basic stitches in knitting: the knit stitch and 
 the purl stitch.  On the "right side" of the fabric, 
 the knit is a flat loop, the purl is a bump.  
@@ -34,7 +34,7 @@ most classic patterns are simply different combinations of
 knit and purl stitches (repeated k1,p1 is ribbing, all knit stitches on the 
 same side is stocking stich). 
 
-There is, in fact, more to it than that, but you can get pretty far with 
+I oversimplify - there's more to it than that - but you can get pretty far with 
 knitting interesting textures and patterns, just knowing these two stitches
 
 (Million dollar idea: a spy movie where the 
@@ -45,15 +45,13 @@ turned back into a program.)
 
 ## Operations.  
 
-That said, there are more stitches than 
-knits and purls.  We also have increases and decreases.  So besides just thinking 
-about texture, we can also think about overall shape, based on 
+Besides knits and purls, we also have increases and decreases.  Beyond
+texture, we can also think about overall shape, based on 
 number of stitches in a row.  You could think of each row as an "index" variable, 
 that's constantly being updated (incremented + decremented) by increase 
 and decrease operations.  
 
-Once you know this, it's not that difficult to make different shapes.  
-The basic premise of making a hat is to 
+Once you know this, it's not that difficult to make different shapes.  The basic premise of making a hat is to 
 start with a certain number of stitches in the round, and then, at some point, 
 regularly decreasing.  We can thus
 soup up our basic binary stitches with literal addition and subtraction to 
@@ -71,6 +69,7 @@ stitches, goes 3, 6, 12, 24, 48, 96 rounds, and so on to 192, 394,
 788, 1576 for all I know."
 
 Her wise conclusion is: 
+
 > "Theory is theory, and I have no intention of putting 
 it into practice, as I do not plan to make a lace carpet for a football field."  
 
@@ -84,7 +83,7 @@ of knitted object.  The compiler/interpreter is, of course, the knitter.
 This gets especially computer-sciencey when your "program" or instructions 
 are written as a chart.  
 
-![img](/images/chart.png)
+![img]({{site.root}}//images/chart.png)
 
 Charts bear more than a passing resemblance to ye-olde punch cards of yore, 
 indicating what "operation" (stich) should be performed at each stage of 
@@ -108,7 +107,7 @@ knitting):
 
 <tr>
 <td>
-<img src="/images/chart_row.png>
+<img src="{{site.root}}//images/chart_row.png">
 </td>
 
 <td>
@@ -116,16 +115,16 @@ k1 * yo sl k1 * k1
 </td>
 
 <td>
-stitches_remaining = 128
-k1
-stiches_remaining -= 1
-WHILE (stiches_remaining > 1)
-DO
-yo
-s
-k1
-stitches_remaining -=2
-DONE
+stitches_remaining = 128 <br>
+k1<br>
+stiches_remaining -= 1<br>
+WHILE (stiches_remaining > 1)<br>
+DO<br>
+yo<br>
+s<br>
+k1<br>
+stitches_remaining -=2<br>
+DONE<br>
 k1
 </td>
 </tr>
@@ -142,7 +141,8 @@ knitting is like coding? Test driven development.
 Say what?  
 
 In the world of knitting, there's something called 
-gauge.  This is basically the size of a 10 stitches x 10 rows (or some other n x n) piece 
+gauge.  Gauge is the size (in inches or centimers) of a 10 stitches x 10 rows
+(or some other n x n) piece 
 of knitting, based on your yarn, needles, and personal knitting 
 tension.  When knitting from a new pattern, it's recommended to knit 
 out a test piece called a "swatch" to 
@@ -154,7 +154,7 @@ Like writing tests for software, I pooh-poohed the idea of knitting a
 swatch to check my gauge until the month I knitted a hat that was so big 
 it literally covered my head.  
 
-![img](/images/fail-hat.jpg)
+![img]({{site.root}}//images/fail-hat.jpg)
 
 Now, if I'm going to knit anything that needs to be a certain size (for example, 
 to fit a normal human being), I dutifully knit my swatch and make sure I'll be 
