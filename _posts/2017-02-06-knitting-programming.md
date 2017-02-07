@@ -98,7 +98,7 @@ then a repeated part of the pattern (the loop), then an ending part of the patte
 In chart, written out + programming, this would look like (from a shawl I'm currently
 knitting): 
 
-<table style="padding: 10px;">
+<table>
 <tr>
 <th>Chart</th>
 <th>Written</th>
@@ -106,15 +106,15 @@ knitting):
 </tr>
 
 <tr>
-<td>
+<td style="padding: 20px;">
 <img src="{{site.root}}//images/chart_row.png">
 </td>
 
-<td>
+<td style="padding: 20px;">
 k1 * yo sl k1 * k1
 </td>
 
-<td>
+<td style="padding: 20px;">
 stitches_remaining = 128 <br>
 k1<br>
 stiches_remaining -= 1<br>
@@ -173,7 +173,8 @@ which row I just finished, enabling me to start again in the right place.
 
 ## Post Script
 
-If you want to see more cool mathy stuff, see [this article][(http://mentalfloss.com/article/86016/6-math-concepts-explained-knitting-and-crochet) 
-sent to me by my roommate!  I'd like to crochet the Lorenz manifold someday.  See also 
+For those disappointed by the lack of math in this blog post, 
+see [this article](http://mentalfloss.com/article/86016/6-math-concepts-explained-knitting-and-crochet) 
+sent to me by my roommate.  (I'd like to crochet the Lorenz manifold someday.)  See also 
 the [mathematical knitting page](http://www.toroidalsnark.net/mathknit.html) of sarah-marie 
 belcastro.  
